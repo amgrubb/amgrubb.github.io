@@ -46,7 +46,7 @@ Megan is from Eastern Washington and joined the lab as a STRIDE student in Septe
      alt="Kate Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
 **Kate Spencer** '22 she/her (Volunteer 2020, SURF 2020)
-  Kate is an engineering major and computer science minor from Seattle, WA. She joined the lab in January 2020. Outside of lab she enjoys being house president of Parsons House and singing in the Glee Club. 
+  Kate is an engineering major and computer science minor from Seattle, WA. She joined the lab in January 2020. Outside of lab she enjoys being house president of Parsons House and singing in the Glee Club. She has worked on [Modeling Uncertainty](https://amgrubb.github.io/posts/2020-08-20-covid-uncertainties), and [Color Visualization](https://amgrubb.github.io/posts/2020-06-01-color-visualization). 
 </div>
 
 
