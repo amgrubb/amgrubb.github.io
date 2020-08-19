@@ -20,7 +20,7 @@ As a proof of concept, we focused on the Emma model (see figure) and evaluated t
 Our team then connected our DRUIDE enabled goal model of Emma with a Bayesian model that describes the spread of COVID-19, allowing us to understand how decisions in one model impacts the other. We also found similar design uncertainties across models. Finally, we worked to implement these features in MMINT, an Eclipse-based mega modeling extension for Interactive Model Management.
 
 
-<img src="/images/GoalModelWithDruide.png"
+<img src="/images/goal-model-source-Emma-DRUID.png"
      alt="goal model with DRUIDE"
      />
 
