@@ -49,6 +49,39 @@ Megan is from Eastern Washington and joined the lab as a STRIDE student in Septe
   Kate is an engineering major and computer science minor from Seattle, WA. She joined the lab in January 2020. Outside of lab she enjoys being house president of Parsons House and singing in the Glee Club. She has worked on [Modeling Uncertainty](https://amgrubb.github.io/posts/2020-08-20-covid-uncertainties), and [Color Visualization](https://amgrubb.github.io/posts/2020-06-01-color-visualization). 
 </div>
 
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+<img src="/images/isabel.jpg"
+     alt="Isabel at the piano"
+     style="float: right; height: 300px; padding-left: 30px;" />
+**Isabel Montesanto** '21 (Senior Honors Thesis 2020-21)
+  Isabel is a logic major from the California Central Valley whose interests include gender, stop-motion, the outdoors, and abstract systems.
+</div>
+
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+<img src="/images/Kathleen.jpg"
+     alt="Kathleen Headshot"
+     style="float: right; height: 300px; padding-left: 30px;" />
+**Kathleen Hablutzel** '23 she/her (STRIDE 2020-2021) 
+  Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. She joined the lab in September 2020. Outside the lab, she enjoys technical theater and serving as a Student Academic Advisor.
+</div>
+
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+**Ali Eshghi** ’21 they/them (Special Studies Fall 2020) 
+  Ali is a Computer Science and Engineering (BA) double major from Lincoln, MA. They joined the lab in September 2020. Outside of lab they enjoy going for walks, eating popcorn, and playing with their cat Socks. 
+</div>
+
+<!--
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+<img src="/images/name.jpg"
+     alt="Name Headshot"
+     style="float: right; height: 300px; padding-left: 30px;" />
+**Name**
+</div>
+-->
+
+
+
+
 
 <div style = "height: 400px; margin: 25px;" markdown = "1">
 <img src="/images/lauren.jpeg"
