@@ -79,22 +79,37 @@ Megan is from Eastern Washington and joined the lab as a STRIDE student in Septe
 </div>
 
 <div style = "height: 400px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpg"
-     alt="Name Headshot"
+<img src="/images/Isabella.jpg"
+     alt="Isabella Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Name**
+**Isabella Brody-Calixto** '21 she/her/they/them (Special Studies Fall 2020)  
+  Isabella is a Computer Science and Philosophy double major from Arlington, VA. She is interested in the intersection of privacy ethics and online ownership. Outside of academics she enjoys hiking, reading fiction, and attempting to cuddle with her cat.
 </div>
 
-<!--
 <div style = "height: 400px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpg"
-     alt="Name Headshot"
-     style="float: right; height: 300px; padding-left: 30px;" />
-**Name**
+**Ella Chang** '22 (Special Studies Fall 2020)  
 </div>
--->
 
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+<img src="/images/Eleni.jpeg"
+     alt="Eleni Headshot"
+     style="float: right; height: 300px; padding-left: 30px;" />
+**Eleni Partakki** '22 she/her (Special Studies Fall 2020)  
+  Eleni is from Cyprus and Romania and joined the lab in September 2020. She is pursuing a double major in computer science and government. Outside of lab, Eleni enjoys cooking, exploring maps, riding her bike, and learning about birds.
+</div>
 
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+**Sophie Crane** ’22 she/her (Special Studies Fall 2020)   
+  Sophie is a Computer Science major from Atlanta, Georgia. She also enjoys practicing her French, drawing, painting, and running.  
+</div>
+
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+<img src="/images/Yanning.jpg"
+     alt="Yanning Headshot"
+     style="float: right; height: 300px; padding-left: 30px;" />
+**Yanning Tan** ’23 she/her (Special Studies Fall 2020)  
+  Yanning is a computer science major from China. She joined the lab in September 2020. Outside of lab she enjoys drawing and creative writing.
+</div>
 
 
 
@@ -106,6 +121,14 @@ Megan is from Eastern Washington and joined the lab as a STRIDE student in Septe
 Lauren is a statistical and data sciences major from Norwich, CT. She joined the lab in May 2019. She is especially interested in domain bias, female representation in STEM, and privacy ethics. Outside of lab she enjoys sailing, kayaking, and spending time with her dog.
 </div>
 
+<!--
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+<img src="/images/name.jpg"
+     alt="Name Headshot"
+     style="float: right; height: 300px; padding-left: 30px;" />
+**Name**
+</div>
+-->
 
 ## Lab Alumni 
 
