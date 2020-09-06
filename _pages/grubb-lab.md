@@ -65,7 +65,7 @@ Megan is from Eastern Washington and joined the lab as a STRIDE student in Septe
   Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. She joined the lab in September 2020. Outside the lab, she enjoys technical theater and serving as a Student Academic Advisor.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 200px; margin: 25px;" markdown = "1">
 **Ali Eshghi** ’21 they/them (Special Studies Fall 2020)   
   Ali is a Computer Science and Engineering (BA) double major from Lincoln, MA. They joined the lab in September 2020. Outside of lab they enjoy going for walks, eating popcorn, and playing with their cat Socks. 
 </div>
@@ -82,11 +82,11 @@ Megan is from Eastern Washington and joined the lab as a STRIDE student in Septe
 <img src="/images/Isabella.jpg"
      alt="Isabella Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Isabella Brody-Calixto** '21 she/her/they/them (Special Studies Fall 2020)  
+**Isabella Brody-Calixto** '21 she/her or they/them (Special Studies Fall 2020)  
   Isabella is a Computer Science and Philosophy double major from Arlington, VA. She is interested in the intersection of privacy ethics and online ownership. Outside of academics she enjoys hiking, reading fiction, and attempting to cuddle with her cat.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 100px; margin: 25px;" markdown = "1">
 **Ella Chang** '22 (Special Studies Fall 2020)  
 </div>
 
@@ -98,7 +98,7 @@ Megan is from Eastern Washington and joined the lab as a STRIDE student in Septe
   Eleni is from Cyprus and Romania and joined the lab in September 2020. She is pursuing a double major in computer science and government. Outside of lab, Eleni enjoys cooking, exploring maps, riding her bike, and learning about birds.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 200px; margin: 25px;" markdown = "1">
 **Sophie Crane** ’22 she/her (Special Studies Fall 2020)   
   Sophie is a Computer Science major from Atlanta, Georgia. She also enjoys practicing her French, drawing, painting, and running.  
 </div>
