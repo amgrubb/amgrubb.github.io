@@ -12,7 +12,7 @@ I joined [Smith College](www.smith.edu) as an Assistant Professor in the Departm
 
 ### Student Hours
 
-Summer 2020: By appointment only.  
+By appointment only.  
 Appointments: [https://tinyurl.com/grubb-app](https://tinyurl.com/grubb-app)
 
 ### Research 
