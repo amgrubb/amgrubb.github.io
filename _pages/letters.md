@@ -6,8 +6,6 @@ author_profile: false
 ---
 {% include base_path %}
 
-_Page under construction - January 2021._
-
 In an effort to increase transparency for all my students, 
 I'm providing my letter writing guidelines here.
 
