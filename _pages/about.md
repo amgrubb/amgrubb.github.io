@@ -27,3 +27,5 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 * CSC 325: [Seminar: Responsible Computing](files/CSC325F19.pdf) - F19, F20
 
 Students can provide me with [anonymous course feedback](https://forms.gle/vAFiNqMaovom9Gjf8) or let me know how I can create a more [inclusive learning environment](https://forms.gle/ZT7s6q8mA1Lz3eZV7).
+
+Looking for a reference letter, please read [this page](/letters/).
