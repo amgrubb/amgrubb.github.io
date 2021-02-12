@@ -1,6 +1,8 @@
 ---
-layout: archive title: "The Grubb Lab" permalink: /grubb-lab/ author_profile:
-false
+layout: archive 
+title: "The Grubb Lab" 
+permalink: /grubb-lab/ 
+author_profile: false
 ---
 {% include base_path %}
 
