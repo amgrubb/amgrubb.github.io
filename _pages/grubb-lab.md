@@ -135,8 +135,8 @@ Megan competes on the varsity Smith College track and cross country team.
 </div>
 
 <div style = "height: 400px; margin: 25px;" markdown = "1">
-<img src="/images/Yesugen.jpeg"
-     alt="Lauren Headshot"
+<img src="/images/Yesugen.jpg"
+     alt="Yesugen Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
 **Yesugen Baatartogtokh** ’23 she/her (Volunteer 2021)
 Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
