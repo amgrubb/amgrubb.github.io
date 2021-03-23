@@ -16,6 +16,8 @@ Modelers encounter different kinds of uncertainty in their designs and models of
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9j6Sdk1AW7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+The Smith team focused on the case study, combining DRUIDE with the goal model of Emma's dinner descision, (first seen [here](https://amgrubb.github.io/publication/2020-Towards-an-Evaluation-Visualization-with-Color)) continuing the work from summer 2020.
+
 <img src="/images/emma-druide3.png"
      alt="Updated version of 'Emma' goal model with DRUIDE"
      />
