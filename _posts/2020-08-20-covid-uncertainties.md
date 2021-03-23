@@ -11,10 +11,15 @@ layout: archive
 
 **Towards a Generic Method for Articulating Design-time Uncertainty**  
 **_Abstract from upcoming paper in the Journal of Object Technologies by Mouna Dhaouadi, Kate Spencer, Megan Varnum, Alicia Grubb, and Michalis Famelis_**
-Modelers encounter different kinds of uncertainty in their designs and models of software systems. One such typeconcerns uncertainty about how to build a model. This is called design-time uncertainty, and existing research has studiedhow modelers can work in its presence. However, the process by which they come to elicit and express their uncertaintiesremains unclear. In this paper, we take steps towards addressing this gap by introducing DRUIDE(Design and RequirementsUncertainty Integrated Development Environment), a language and workflow for articulating design time uncertainty. We presentand illustrate our proposal on a software design example. Additionally, we conduct a real life case study of domain analysisrelated to the uncertainty caused by the COVID-19 pandemic, and evaluate DRUIDE with it. Our evaluation shows that DRUIDE is sufficiently expressive to articulate design time uncertainty.
 
-Watch the teaser video for the paper here: 
+Modelers encounter different kinds of uncertainty in their designs and models of software systems. One such type concerns uncertainty about how to build a model. This is called design-time uncertainty, and existing research has studied how modelers can work in its presence. However, the process by which they come to elicit and express their uncertainties remains unclear. In this paper, we take steps towards addressing this gap by introducing DRUIDE (Design and Requirements Uncertainty Integrated Development Environment), a language and workflow for articulating design time uncertainty. We present and illustrate our proposal on a software design example. Additionally, we conduct a real life case study of domain analysis related to the uncertainty caused by the COVID-19 pandemic, and evaluate DRUIDE with it. Our evaluation shows that DRUIDE is sufficiently expressive to articulate design time uncertainty.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9j6Sdk1AW7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="/images/emma-druide3.png"
+     alt="Updated version of 'Emma' goal model with DRUIDE"
+     />
+
 
 **Exploring Uncertainties in COVID-19 Modeling**  
 **_2020 SURF Abstract by Kate Spencer and Megan Varnum_**
@@ -30,6 +35,6 @@ Our team then connected our DRUIDE enabled goal model of Emma with a Bayesian mo
 
 
 <img src="/images/goal-model-source-Emma-DRUID.png"
-     alt="goal model with DRUIDE"
+     alt="First version of 'Emma' goal model with DRUIDE"
      />
 
