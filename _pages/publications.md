@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Page under construction - March 24, 2021.
-
 See full list on [DBLP](https://dblp.org/pers/hd/g/Grubb:Alicia_M=) or [Google Scholar](https://scholar.google.com/citations?user=br2VoDkAAAAJ&hl=en&authuser=1).
 
 
@@ -16,5 +14,6 @@ See full list on [DBLP](https://dblp.org/pers/hd/g/Grubb:Alicia_M=) or [Google S
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
+  <!-- {% include archive-project.html %} -->
 {% endfor %}
 
