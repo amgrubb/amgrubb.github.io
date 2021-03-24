@@ -22,20 +22,21 @@ trickiest part is the format of bios and images, which are laid out using HTML
 The publications page is made up of several files. Firstly, publications.md in
 _pages that controls the main/landing page with the list of publications with
 links. Then there is pubsFromBib.py in markdown_generator which generates the
-pages for the individual posts from book.bib, journal.bib, and pubs.bib. **Do
-not open these .bib files in BibDesk. It changes the tags to be upper case,
-which breaks pubsFromBib.py.** Finally, there is the _publications folder that
+pages for the individual posts from book.bib, journal.bib, and pubs.bib. 
+**Do not open these .bib files in BibDesk. It changes the tags to be upper case,
+which breaks pubsFromBib.py.** 
+Finally, there is the _publications folder that
 contains markdown files for each publication. 
 
-The individual markdown files are generated when pubsFromBib.py is run(I just
+The individual markdown files are generated when pubsFromBib.py is run (I just
 use IDLE but any python IDE should work fine). This is a little tricky to run
-the first time, as there are a few dependancies but after is very simple. To run
+the first time, as there are a few dependencies but after is very simple. To run
 pubsFromBib.py up we need pybtex, which can be installed from
 [pip](https://pip.pypa.io/en/stable/installing/). Pip comes installed with any
 of the recent python updates, I had to [set the PATH in myenvironment
 variables](https://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command)
 in order to make it work. Once your pip is working, you can simply enter `pip
-install pybtex` into your terminal to install [pybtex](https://pybtex.org/). One
+install pybtex` into your terminal to install [pybtex](https://pybtex.org/). On
 OSX, you may need to run `python -m pip install pybtex` instead.
 
 Once pubsFromBib.py runs without error, any time you run it, it will
@@ -50,7 +51,7 @@ are made based on how pubsFromBib.py reads the venuekey. It is a little bit of a
 pain, and probably could/should be improved, but for now, any journals go in
 journal.bib, Alicia's PHD Thesis goes in book.bib and everything else
 (conference and workshop papers) go in pubs.bib to prevent any errors. Links to
-the Author PrePrint, Supplimental Information, and Talk Slides are written in
+the Author PrePrint, Supplemental Information, and Talk Slides are written in
 markdown in a "note" in Zoterro, and when the markdown page is built by
 pubsFromBib.py it is included simply as markdown and can be read into the page.
 Some links are already hosted on [Dr. Grubb's Toronto
@@ -58,14 +59,14 @@ site](http://www.cs.toronto.edu/~amgrubb/), but local PDF's are in the files
 folder.
 
 Once pubsFromBib.py is run, all the pages are generated and there is nothing
-more needed! If you wish to add additional infromation it is important to do it
+more needed! If you wish to add additional information it is important to do it
 in the appropriate .bib file, or else that information is overwritten each time
-pubsFromBib.py is run. The only exception to this is the dagger(†) symbol used
-to indicate a Toronto author(Gary Song and Caroline Hu). This symbol is not
-recognized by pybtex, and instead is conferted into a diamond with a question
-mark which will not allow the site to build, and you will get an email with an
-error message.  
-### Make sure that there are no unknown symbols (diamond with question mark) in any files or the website will not build. These will be automatically generated when pubsFromBib.py is run, but should be replaced with daggers (†) prior to commiting the changes.
+pubsFromBib.py is run. 
+### Unknown Symbols
+Make sure that there are no unknown symbols (diamond with question mark) in any
+files or the website will not build. These will be automatically generated when
+pubsFromBib.py is run, but should be replaced with daggers (†) prior to
+committing the changes.
 
 ## How to update Projects
 Projects is based on the "blog post" framework from Academic Pages, and is
@@ -91,7 +92,7 @@ to include a bit of information which hopefully will make it easier if they ever
 do need to be changed.
 
 
-# Origional Information from Academic Pages Author
+# Original Information from Academic Pages Author
 I think I've got things running smoothly and fixed some major bugs, but feel
 free to file issues or make pull requests if you want to improve the generic
 template / theme.
