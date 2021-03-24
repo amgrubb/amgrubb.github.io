@@ -3,7 +3,7 @@ title: "GrowingLeaf: Supporting Requirements Evolution over Time"
 collection: publications
 permalink: /publication/2016-GrowingLeaf-Supporting-Requirements-Evolution-over-Time
 excerpt: Alicia M. Grubb, Gary Song, Marsha Chechik
-date: 2016-01-01
+date: 2016-11-01
 venue: 'Proceedings of the Ninth International i* Workshop iStar'
 citation: ' Alicia M. Grubb,  Gary Song,  Marsha Chechik, "GrowingLeaf: Supporting Requirements Evolution over Time." Proceedings of the Ninth International i* Workshop iStar, 2016.'
 layout: archive

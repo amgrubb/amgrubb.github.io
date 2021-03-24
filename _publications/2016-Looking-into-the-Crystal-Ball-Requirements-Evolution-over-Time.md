@@ -3,7 +3,7 @@ title: "Looking into the Crystal Ball: Requirements Evolution over Time"
 collection: publications
 permalink: /publication/2016-Looking-into-the-Crystal-Ball-Requirements-Evolution-over-Time
 excerpt: Alicia M. Grubb, Marsha Chechik
-date: 2016-01-01
+date: 2016-12-01
 venue: 'Proceedings of the IEEE 24th International Requirements Engineering Conference RE'
 citation: ' Alicia M. Grubb,  Marsha Chechik, "Looking into the Crystal Ball: Requirements Evolution over Time." Proceedings of the IEEE 24th International Requirements Engineering Conference RE, 2016.'
 layout: archive
