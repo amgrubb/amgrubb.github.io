@@ -2,13 +2,13 @@
 title: "Towards a General Solution for Layout of Visual Goal Models with Actors"
 collection: publications
 permalink: /publication/2020-Towards-a-General-Solution-for-Layout-of-Visual-Goal-Models-with-Actors
-excerpt: Y. Lucy Wang, Alicia M. Grubb
+excerpt: Y. Lucy Wang\*, Alicia M. Grubb
 date: 2020-01-01
 venue: 'Proceedings of the IEEE 28th International Requirements Engineering Conference RE'
-citation: ' Y. Lucy Wang,  Alicia M. Grubb, "Towards a General Solution for Layout of Visual Goal Models with Actors." Proceedings of the IEEE 28th International Requirements Engineering Conference RE, 2020.'
+citation: ' Y. Lucy Wang*,  Alicia M. Grubb, "Towards a General Solution for Layout of Visual Goal Models with Actors." Proceedings of the IEEE 28th International Requirements Engineering Conference RE, 2020.'
 layout: archive
 ---
- Y. Lucy Wang,  Alicia M. Grubb, "Towards a General Solution for Layout of Visual Goal Models with Actors." Proceedings of the IEEE 28th International Requirements Engineering Conference RE, 2020.
+ Y. Lucy Wang\*,  Alicia M. Grubb, "Towards a General Solution for Layout of Visual Goal Models with Actors." Proceedings of the IEEE 28th International Requirements Engineering Conference RE, 2020.
 
 [Author PrePrint](https://amgrubb.github.io/files/2020-Towards-a-General-Solution-for-Layout-of-Visual-Goal-Models-with-Actors.pdf)
 
