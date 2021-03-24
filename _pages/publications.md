@@ -14,6 +14,5 @@ See full list on [DBLP](https://dblp.org/pers/hd/g/Grubb:Alicia_M=) or [Google S
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-  <!-- {% include archive-project.html %} -->
 {% endfor %}
 
