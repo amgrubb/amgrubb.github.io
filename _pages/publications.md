@@ -9,7 +9,6 @@ See full list on [DBLP](https://dblp.org/pers/hd/g/Grubb:Alicia_M=) or [Google S
 
 
 \* denotes authors who conducted research as undergraduate while at Smith College.  
-† denotes authors who conducted research as undergraduate while at the University of Toronto.
 
 {% include base_path %}
 
