@@ -6,7 +6,6 @@ collection: projects
 permalink: /posts/2020-06-01-color-visualization
 layout: archive
 ---
-**This article is under construction**
 
 > **_Note:_** This work is published in the Proceedings of the 13th International i* Workshop, the abstract and talk slides can be veiwed [here](https://amgrubb.github.io/publication/2020-Towards-an-Evaluation-Visualization-with-Color).
 
