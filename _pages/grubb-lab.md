@@ -7,10 +7,10 @@ author_profile: false
 ---
 {% include base_path %}
 
-<div style = "height: 400px; margin: 25px; " markdown = "1">
-<img src="/images/site-logo.jpg"
-     alt="Alicia Paddling on Paradise Pond"
-     style=" float: left; height: 300px; padding-left: 30px;" /> 
+<div style = "height: 200px; margin: 25px; " markdown = "1">
+<img src="/images/site-logo.png"
+     alt="Grubb Lab Logo"
+     style=" float: left; height: 100px; padding-left: 30px;" /> 
 The Grubb lab is the software engineering lab in the Department of [Computer
 Science](http://cs.smith.edu/) at [Smith College](www.smith.edu). Our work
 focuses on goal modeling, and how stakeholders can effectively use models in
