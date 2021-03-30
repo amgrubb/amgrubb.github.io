@@ -2,17 +2,15 @@
 layout: archive 
 title: "The Grubb Lab" 
 permalink: /grubb-lab/ 
-author_profile: true
+author_profile: false
 
 ---
 {% include base_path %}
 
-
-
 <div style = "height: 400px; margin: 25px; " markdown = "1">
-<img src="/images/goal-model1.png" alt="A goal model showing a student deciding
-     what to have for lunch" style="display:block; margin-left: auto;
-     margin-right: auto; width: 50%;" /> 
+<img src="/images/site-logo.jpg"
+     alt="Alicia Paddling on Paradise Pond"
+     style=" float: left; height: 300px; padding-left: 30px;" /> 
 The Grubb lab is the software engineering lab in the Department of [Computer
 Science](http://cs.smith.edu/) at [Smith College](www.smith.edu). Our work
 focuses on goal modeling, and how stakeholders can effectively use models in
@@ -21,7 +19,13 @@ the intentions of stakeholders and tradeoffs within the system under
 consideration. They can be used to make decisions in early-phase requirements
 engineering as well as in other contexts. The following image is an example of a
 goal model created in our tool BloomingLeaf, a browser-based tool developed by
-the lab. See below to join us. 
+the lab. See below to join us.
+</div>
+
+<div>
+<img src="/images/goal-model1.png" alt="A goal model showing a student deciding
+     what to have for lunch" style="display:block; margin-left: auto;
+     margin-right: auto; width: 50%;" /> 
 </div>
 
 ## Lab Members
@@ -31,8 +35,6 @@ the lab. See below to join us.
 <img src="/images/paddling.jpg"
      alt="Alicia Paddling on Paradise Pond"
      style=" float: right; height: 300px; padding-left: 30px;" /> 
-
-   
 **Dr. Alicia M. Grubb** they/them (Principal Investigator 2019-Present)  
 Alicia is from Canada and loves maple syrup and gooses (and duckies). When they
 are not in the lab, they can be found riding bikes or paddling a kayak on Smith
