@@ -7,10 +7,11 @@ author_profile: false
 ---
 {% include base_path %}
 
-<div style = "height: 400px; margin: 25px; " markdown = "1">
+<div>
 <img src="/images/site-logo.png"
      alt="Grubb Lab Logo"
      style=" float: left; height: 150px; padding-right: 30px;" /> 
+     
 The Grubb lab is the software engineering lab in the Department of [Computer
 Science](http://cs.smith.edu/) at [Smith College](www.smith.edu). Our work
 focuses on goal modeling, and how stakeholders can effectively use models in
@@ -20,9 +21,7 @@ consideration. They can be used to make decisions in early-phase requirements
 engineering as well as in other contexts. The following image is an example of a
 goal model created in our tool BloomingLeaf, a browser-based tool developed by
 the lab. See below to join us.
-</div>
 
-<div>
 <img src="/images/goal-model1.png" alt="A goal model showing a student deciding
      what to have for lunch" style="display:block; margin-left: auto;
      margin-right: auto; width: 50%;" /> 
