@@ -7,7 +7,7 @@ author_profile: false
 ---
 {% include base_path %}
 
-<div style = "height: 500px; margin: 25px; " markdown = "1">
+<div style = "height: 400px; margin: 25px; " markdown = "1">
 <img src="/images/site-logo.png"
      alt="Grubb Lab Logo"
      style=" float: left; height: 150px; padding-right: 30px;" /> 
