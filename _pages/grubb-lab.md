@@ -160,7 +160,7 @@ Outside of lab she enjoys sailing, kayaking, and spending time with her dog.
 <img src="/images/angela.jpg"
      alt="Name Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Angela Chu** '23 she/her (SURF 2021)
+**Angela Chu** '23 she/her (SURF 2021)   
 Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
 </div>
 
@@ -170,12 +170,12 @@ Angela is a CS major from Dublin, CA. She will be joining the lab this year for 
      alt="Name Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
 -->
-**Irene Foster** '23 she/her (SURF 2021)
+**Irene Foster** '23 she/her (SURF 2021)   
 Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
 </div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
-**Manar Alnazer** ‘24 she/her (SURF 2021)
+**Manar Alnazer** ‘24 she/her (SURF 2021)   
 Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
 </div>
 
