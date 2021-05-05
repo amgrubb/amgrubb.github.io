@@ -1,9 +1,9 @@
 ---
 title: 'Restructuring Model Analysis Features in BloomingLeaf'
-date: 2021-06-01
+date: 2021-04-01
 excerpt: Kathleen Hablutzel, Ali Eshghi, Ester Zhao, Isabella Brody-Calixto, Yanning Tan, and Yesugen Baatartogtokh 
 collection: projects
-permalink: /posts/2021-06-01-restructuring
+permalink: /posts/2021-04-01-restructuring
 layout: archive
 ---
 
