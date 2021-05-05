@@ -1,5 +1,5 @@
 ---
-title: 'Bilattices and the Logic of Goal Modeling'
+title: 'Thesis: Bilattices and the Logic of Goal Modeling'
 date: 2021-05-01
 excerpt: Isabel Montesanto
 collection: projects
