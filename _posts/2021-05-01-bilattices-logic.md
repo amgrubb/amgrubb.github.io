@@ -8,7 +8,7 @@ layout: archive
 ---
 
 **Bilattices and the Logic of Goal Modeling**  
-**_Senior Honors Thesis by Isabel Montesant_**
+**_Senior Honors Thesis by Isabel Montesant_**   
 **_Submitted to the Logic Program and was co-advised by Jay Garfield._**
 
 <!-- Lucy completed her seniors honors thesis with Prof. Grubb and received highest honors!-->
