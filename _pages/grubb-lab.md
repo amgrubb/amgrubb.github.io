@@ -184,7 +184,7 @@ Manar is from the Middle East. She is majoring in computer science and is consid
      style="float: right; height: 300px; padding-left: 30px;" />
 -->
 **Catherine Kung** '22 she/her (SURF 2021)   
-Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over the courses. She lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is am from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY like bubble tea.
+Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
 </div>
 
 
