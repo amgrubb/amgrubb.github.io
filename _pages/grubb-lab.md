@@ -139,7 +139,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Yesugen Baatartogtokh** ’23 she/her (Volunteer 2021)
+**Yesugen Baatartogtokh** ’23 she/her (Volunteer Spring 2021, SURF 2021)
 Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
 </div>
@@ -177,6 +177,16 @@ Irene is a Statistical & Data Science major and a Environmental Science & Policy
 **Manar Alnazer** ‘24 she/her (SURF 2021)   
 Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
 </div>
+
+<div style = "height: 400px; margin: 25px;" markdown = "1">
+<!-- <img src="/images/name.jpg"
+     alt="Name Headshot"
+     style="float: right; height: 300px; padding-left: 30px;" />
+-->
+**Catherine Kung** '22 she/her (SURF 2021)   
+Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over the courses. She lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is am from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY like bubble tea.
+</div>
+
 
 <!--
 <div style = "height: 400px; margin: 25px;" markdown = "1">
