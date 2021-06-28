@@ -62,6 +62,7 @@ Once pubsFromBib.py is run, all the pages are generated and there is nothing
 more needed! If you wish to add additional information it is important to do it
 in the appropriate .bib file, or else that information is overwritten each time
 pubsFromBib.py is run. 
+
 ### Unknown Symbols
 Make sure that there are no unknown symbols (diamond with question mark) in any
 files or the website will not build. These will be automatically generated when
