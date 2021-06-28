@@ -210,7 +210,7 @@ Omema Ibrahim '22 (SURF 2019)
 
 We are seeking new lab members interested in both software development and
 requirements research. There are different ways to conduct research in the Grubb
-Lab (e.g., volunteer, special studies, AEMES, SURF, STRIDE, or a senior honors thesis
+Lab (e.g., volunteer, special studies, SURF, STRIDE, or a Senior Honors Thesis
 project). Those interested in development or software engineering research
 should have completed or be currently enrolled in CSC212. Ideally, students
 interested in pursuing a Senior Honors Thesis should contact Alicia in their
