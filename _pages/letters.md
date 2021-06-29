@@ -50,7 +50,7 @@ Consider whether I can write a strong letter for you.
 I can only speak to and provide evidence for what I have witnessed. 
 If you are heavily involved in your house on campus, but have never mentioned this to me, then I can't discuss it.
 
-Still not sure what a strong letter looks like? Here is an example of a [good](files/GoodLetter.pdf) and [strong](files/StrongLetter.pdf) letter. 
+Still not sure what a strong letter looks like? Here is an example of a [good](files/GoodLetter.pdf) letter and a [strong](files/StrongLetter.pdf) letter. 
 The student (Jane Doe) is likely equally qualified (same grade in the class). 
 In the strong letter, there are more concrete details as the professor has had more interactions with the student. 
 
@@ -59,7 +59,6 @@ Don’t ask for a recommendation letter unless you’re certain you’re going t
 ## Request and Timing
 
 I need at least **three weeks** to craft and submit a letter for you. Faculty schedules are busy, and I need as much lead time as possible. 
-Two weeks is the minimum amount of lead time for me to consider writing for you. 
 
 When asking for a letter, tell me if you are looking for a **strong** letter and ask me if I have enough time to write one. 
 If I can't agree to write you a strong letter, this does not mean I don't think highly of you. 
