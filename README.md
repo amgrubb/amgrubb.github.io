@@ -35,9 +35,10 @@ pubsFromBib.py up we need pybtex, which can be installed from
 [pip](https://pip.pypa.io/en/stable/installing/). Pip comes installed with any
 of the recent python updates, I had to [set the PATH in myenvironment
 variables](https://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command)
-in order to make it work. Once your pip is working, you can simply enter `pip
-install pybtex` into your terminal to install [pybtex](https://pybtex.org/). On
-OSX, you may need to run `python -m pip install pybtex` instead.
+in order to make it work. Once your pip is working, you can simply enter 
+`pip install pybtex` 
+into your terminal to install [pybtex](https://pybtex.org/). 
+On OSX, you may need to run `python -m pip install pybtex` instead.
 
 Once pubsFromBib.py runs without error, any time you run it, it will
 automatically update every file in _publications based on the information in the

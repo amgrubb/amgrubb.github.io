@@ -50,7 +50,7 @@ Consider whether I can write a strong letter for you.
 I can only speak to and provide evidence for what I have witnessed. 
 If you are heavily involved in your house on campus, but have never mentioned this to me, then I can't discuss it.
 
-Still not sure what a strong letter looks like? Here is an example of a [good](files/GoodLetter.pdf) letter and a [strong](files/StrongLetter.pdf) letter. 
+Still not sure what a strong letter looks like? Here is an example of a [good](/files/GoodLetter.pdf) letter and a [strong](/files/StrongLetter.pdf) letter. 
 The student (Jane Doe) is likely equally qualified (same grade in the class). 
 In the strong letter, there are more concrete details as the professor has had more interactions with the student. 
 
