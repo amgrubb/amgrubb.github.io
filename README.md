@@ -19,12 +19,12 @@ trickiest part is the format of bios and images, which are laid out using HTML
 `<divs>` but should be evident based on the existing format. 
 
 ## How to update publications
+**Do not open these .bib files in BibDesk. It changes the tags to be upper case,
+which breaks pubsFromBib.py.** 
 The publications page is made up of several files. Firstly, publications.md in
 _pages that controls the main/landing page with the list of publications with
 links. Then there is pubsFromBib.py in markdown_generator which generates the
 pages for the individual posts from book.bib, journal.bib, and pubs.bib. 
-**Do not open these .bib files in BibDesk. It changes the tags to be upper case,
-which breaks pubsFromBib.py.** 
 Finally, there is the _publications folder that
 contains markdown files for each publication. 
 
