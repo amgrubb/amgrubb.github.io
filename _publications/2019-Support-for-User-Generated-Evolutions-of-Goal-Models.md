@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2019-Support-for-User-Generated-Evolutions-of-Goal-Models
 excerpt: Boyue Caroline Hu, Alicia M. Grubb
 date: 2019-01-01
-venue: 'Proceedings of the 11th International Workshop on Modeling in Software Engineering MiSE'
-citation: ' Boyue Caroline Hu,  Alicia M. Grubb, "Support for User Generated Evolutions of Goal Models." Proceedings of the 11th International Workshop on Modeling in Software Engineering MiSE, 2019.'
+venue: 'Proceedings of the 11th International Workshop on Modeling in Software Engineering (MiSE)'
+citation: ' Boyue Caroline Hu,  Alicia M. Grubb, "Support for User Generated Evolutions of Goal Models." Proceedings of the 11th International Workshop on Modeling in Software Engineering (MiSE), 2019.'
 layout: archive
 ---
- Boyue Caroline Hu,  Alicia M. Grubb, "Support for User Generated Evolutions of Goal Models." Proceedings of the 11th International Workshop on Modeling in Software Engineering MiSE, 2019.
+ Boyue Caroline Hu,  Alicia M. Grubb, "Support for User Generated Evolutions of Goal Models." Proceedings of the 11th International Workshop on Modeling in Software Engineering (MiSE), 2019.
 
 [Author PrePrint](http://www.cs.toronto.edu/~amgrubb/archive/MiSE19.pdf)
 

@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2016-Understanding-Challenges-and-Tradeoffs-in-iStar-Tool-Development
 excerpt: Tong Li, Alicia M. Grubb, Jennifer Horkoff
 date: 2016-01-01
-venue: 'Proceedings of the Ninth International i* Workshop iStar'
-citation: ' Tong Li,  Alicia M. Grubb,  Jennifer Horkoff, "Understanding Challenges and Tradeoffs in iStar Tool Development." Proceedings of the Ninth International i* Workshop iStar, 2016.'
+venue: 'Proceedings of the Ninth International i* Workshop (iStar)'
+citation: ' Tong Li,  Alicia M. Grubb,  Jennifer Horkoff, "Understanding Challenges and Tradeoffs in iStar Tool Development." Proceedings of the Ninth International i* Workshop (iStar), 2016.'
 layout: archive
 ---
- Tong Li,  Alicia M. Grubb,  Jennifer Horkoff, "Understanding Challenges and Tradeoffs in iStar Tool Development." Proceedings of the Ninth International i\* Workshop iStar, 2016.
+ Tong Li,  Alicia M. Grubb,  Jennifer Horkoff, "Understanding Challenges and Tradeoffs in iStar Tool Development." Proceedings of the Ninth International i\* Workshop (iStar), 2016.
 
 [Author PrePrint](http://www.cs.toronto.edu/~amgrubb/archive/iStar16Li.pdf)
 

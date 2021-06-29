@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2018-Reflection-on-Evolutionary-Decision-Making-with-Goal-Modeling-via-Empirical-Studies
 excerpt: Alicia M. Grubb
 date: 2018-01-01
-venue: 'Proceedings of the IEEE 26th International Requirements Engineering Conference RE'
-citation: ' Alicia M. Grubb, "Reflection on Evolutionary Decision Making with Goal Modeling via Empirical Studies." Proceedings of the IEEE 26th International Requirements Engineering Conference RE, 2018.'
+venue: 'Proceedings of the IEEE 26th International Requirements Engineering Conference (RE)'
+citation: ' Alicia M. Grubb, "Reflection on Evolutionary Decision Making with Goal Modeling via Empirical Studies." Proceedings of the IEEE 26th International Requirements Engineering Conference (RE), 2018.'
 layout: archive
 ---
- Alicia M. Grubb, "Reflection on Evolutionary Decision Making with Goal Modeling via Empirical Studies." Proceedings of the IEEE 26th International Requirements Engineering Conference RE, 2018.
+ Alicia M. Grubb, "Reflection on Evolutionary Decision Making with Goal Modeling via Empirical Studies." Proceedings of the IEEE 26th International Requirements Engineering Conference (RE), 2018.
 
 [Author PrePrint](http://www.cs.toronto.edu/~amgrubb/archive/RE18.pdf)
 

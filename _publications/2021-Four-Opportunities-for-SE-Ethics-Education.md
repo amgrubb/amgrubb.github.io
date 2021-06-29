@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2021-Four-Opportunities-for-SE-Ethics-Education
 excerpt: Alicia M. Grubb
 date: 2021-05-01
-venue: 'Proceedings of the IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice SEthics'
-citation: ' Alicia M. Grubb, "Four Opportunities for SE Ethics Education." Proceedings of the IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice SEthics, 2021.'
+venue: 'Proceedings of the IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice (SEthics)'
+citation: ' Alicia M. Grubb, "Four Opportunities for SE Ethics Education." Proceedings of the IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice (SEthics), 2021.'
 layout: archive
 ---
- Alicia M. Grubb, "Four Opportunities for SE Ethics Education." Proceedings of the IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice SEthics, 2021.
+ Alicia M. Grubb, "Four Opportunities for SE Ethics Education." Proceedings of the IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice (SEthics), 2021.
 
 [Author PrePrint](https://scholarworks.smith.edu/csc_facpubs/155)
 
