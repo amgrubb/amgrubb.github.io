@@ -199,7 +199,10 @@ Catherine is an SDS and psychology major that has become particularly interested
 
 ## Lab Alumni 
 Yilin Lucy Wang '20 (SURF 2019, Senior Honors Thesis 2019-20)  
-<!--CMU, Master of Entertainment Technology, F20-->
+<!--CMU, Master of Entertainment Technology, F20
+https://yilinwa2.wixsite.com/information
+http://www.etc.cmu.edu/wp-content/uploads/2013/08/Resume-Yilin-WangPDF.pdf
+-->
 Lily Diao '22 (SURF 2019, Special Studies Fall 2019)  
 Naomi Cebula '22 (SURF 2019, Special Studies Fall 2019)  
 Omema Ibrahim '22 (SURF 2019)  
