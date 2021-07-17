@@ -49,7 +49,7 @@ She is pursuing a double major in engineering and computer science. Outside of a
 Megan competes on the varsity Smith College track and cross country team.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/kate.jpg"
      alt="Kate Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -61,7 +61,7 @@ Megan competes on the varsity Smith College track and cross country team.
   and [Color Visualization](https://amgrubb.github.io/posts/2020-06-01-color-visualization). 
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/isabel.jpg"
      alt="Isabel at the piano"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -70,7 +70,7 @@ Megan competes on the varsity Smith College track and cross country team.
   stop-motion, the outdoors, and abstract systems.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Kathleen.jpg"
      alt="Kathleen Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -86,7 +86,7 @@ Megan competes on the varsity Smith College track and cross country team.
   eating popcorn, and playing with their cat Socks. 
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Ester.jpeg"
      alt="Ester Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -96,7 +96,7 @@ Megan competes on the varsity Smith College track and cross country team.
   trails and arranging songs for her a cappella group, the Smithereens, of which she is President and Music Director.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Isabella.jpg"
      alt="Isabella Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -116,7 +116,7 @@ Megan competes on the varsity Smith College track and cross country team.
   French, drawing, painting, and running.  
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Yanning.jpg"
      alt="Yanning Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -125,7 +125,7 @@ Megan competes on the varsity Smith College track and cross country team.
   Outside of lab she enjoys drawing and creative writing.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -135,7 +135,7 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
 </div>
 
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/lauren.jpeg"
      alt="Lauren Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -145,7 +145,7 @@ She is especially interested in domain bias, female representation in STEM, and 
 Outside of lab she enjoys sailing, kayaking, and spending time with her dog.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/angela.jpg"
      alt="Name Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -168,7 +168,7 @@ Irene is a Statistical & Data Science major and a Environmental Science & Policy
 Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
 </div>
 
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <!-- <img src="/images/name.jpg"
      alt="Name Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
@@ -179,7 +179,7 @@ Catherine is an SDS and psychology major that has become particularly interested
 
 
 <!--
-<div style = "height: 400px; margin: 25px;" markdown = "1">
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/name.jpg"
      alt="Name Headshot"
      style="float: right; height: 150px; padding-left: 30px;" />
