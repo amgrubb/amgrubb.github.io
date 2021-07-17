@@ -29,20 +29,20 @@ the lab. See below to join us.
 ## Lab Members
 
 
-<div style = "height: 400px; margin: 25px; " markdown = "1">
+<div style = "height: 250px; margin: 25px; " markdown = "1">
 <img src="/images/paddling.jpg"
      alt="Alicia Paddling on Paradise Pond"
-     style=" float: right; height: 300px; padding-left: 30px;" /> 
+     style=" float: right; width: 250px; padding-left: 30px;" /> 
 **Dr. Alicia M. Grubb** (Principal Investigator 2019-Present)  
 Alicia is from Canada and loves maple syrup and gooses (and duckies). When they
 are not in the lab, they can be found riding bikes or paddling a kayak on Smith
 College's Paradise Pond.
 </div>
 
-<div style = "height: 400px; margin: 25px; " markdown = "1">
+<div style = "height: 250px; margin: 25px; " markdown = "1">
 <img src="/images/megan.JPG"
      alt="Megan HeadShot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Megan Varnum** '23 (STRIDE 2019-2021, SURF 2020)  
 Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
 She is pursuing a double major in engineering and computer science. Outside of academics, 
@@ -52,7 +52,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/kate.jpg"
      alt="Kate Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Kate Spencer** '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
   Kate is an engineering major and computer science minor from Seattle, WA. 
   She joined the lab in January 2020. Outside of lab she enjoys being house president of Parsons House 
@@ -64,7 +64,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/isabel.jpg"
      alt="Isabel at the piano"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Isabel Montesanto** '21 (Senior Honors Thesis 2020-21)  
   Isabel is a logic major from the California Central Valley whose interests include gender, 
   stop-motion, the outdoors, and abstract systems.
@@ -73,7 +73,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Kathleen.jpg"
      alt="Kathleen Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Kathleen Hablutzel** '23 (STRIDE 2020-2021)  
   Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. 
   She joined the lab in September 2020. Outside the lab, she enjoys technical theater and serving as a Student Academic Advisor.
@@ -89,7 +89,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Ester.jpeg"
      alt="Ester Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Ester Zhao** '21 (Special Studies Fall 2020 & Spring 2021)  
   Ester is a Computer Science major and Statistical & Data Sciences minor from Lexington, MA. 
   She joined the lab in September 2020. When she isn't coding, she enjoys exploring nature 
@@ -99,7 +99,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Isabella.jpg"
      alt="Isabella Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Isabella Brody-Calixto** '21 (Special Studies Fall 2020 & Spring 2021)  
   Isabella is a Computer Science and Philosophy double major from Arlington, VA. She is 
   interested in the intersection of privacy ethics and online ownership. Outside of academics 
@@ -119,7 +119,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Yanning.jpg"
      alt="Yanning Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer 2021)  
   Yanning is a computer science major from China. She joined the lab in September 2020. 
   Outside of lab she enjoys drawing and creative writing.
@@ -128,17 +128,16 @@ Megan competes on the varsity Smith College track and cross country team.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021)
 Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
 </div>
 
-
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/lauren.jpeg"
      alt="Lauren Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Lauren Forando** '21 (Work Study 2019)
 Lauren is a statistical and data sciences major from Norwich, CT. She joined the lab in May 2019. 
 She is especially interested in domain bias, female representation in STEM, and privacy ethics. 
@@ -148,17 +147,12 @@ Outside of lab she enjoys sailing, kayaking, and spending time with her dog.
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/angela.jpg"
      alt="Name Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Angela Chu** '23 (SURF 2021)   
 Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
 </div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
-<!--
-<img src="/images/name.jpg"
-     alt="Name Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
--->
 **Irene Foster** '23 (SURF 2021)   
 Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
 </div>
@@ -168,11 +162,7 @@ Irene is a Statistical & Data Science major and a Environmental Science & Policy
 Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
 </div>
 
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<!-- <img src="/images/name.jpg"
-     alt="Name Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
--->
+<div style = "height: 200px; margin: 25px;" markdown = "1">
 **Catherine Kung** '22 (SURF 2021)   
 Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
 </div>
@@ -182,7 +172,7 @@ Catherine is an SDS and psychology major that has become particularly interested
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/name.jpg"
      alt="Name Headshot"
-     style="float: right; height: 150px; padding-left: 30px;" />
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Name**
 </div>
 -->
