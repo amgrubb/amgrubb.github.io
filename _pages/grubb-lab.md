@@ -33,7 +33,7 @@ the lab. See below to join us.
 <img src="/images/paddling.jpg"
      alt="Alicia Paddling on Paradise Pond"
      style=" float: right; height: 300px; padding-left: 30px;" /> 
-**Dr. Alicia M. Grubb** they/them (Principal Investigator 2019-Present)  
+**Dr. Alicia M. Grubb** (Principal Investigator 2019-Present)  
 Alicia is from Canada and loves maple syrup and gooses (and duckies). When they
 are not in the lab, they can be found riding bikes or paddling a kayak on Smith
 College's Paradise Pond.
@@ -43,7 +43,7 @@ College's Paradise Pond.
 <img src="/images/megan.JPG"
      alt="Megan HeadShot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Megan Varnum** '23 she/her (STRIDE 2019-2021, SURF 2020)  
+**Megan Varnum** '23 (STRIDE 2019-2021, SURF 2020)  
 Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
 She is pursuing a double major in engineering and computer science. Outside of academics, 
 Megan competes on the varsity Smith College track and cross country team.
@@ -53,7 +53,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <img src="/images/kate.jpg"
      alt="Kate Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Kate Spencer** '22 she/her (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
+**Kate Spencer** '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
   Kate is an engineering major and computer science minor from Seattle, WA. 
   She joined the lab in January 2020. Outside of lab she enjoys being house president of Parsons House 
   and singing in the Glee Club. She has worked on 
@@ -74,13 +74,13 @@ Megan competes on the varsity Smith College track and cross country team.
 <img src="/images/Kathleen.jpg"
      alt="Kathleen Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Kathleen Hablutzel** '23 she/her (STRIDE 2020-2021)  
+**Kathleen Hablutzel** '23 (STRIDE 2020-2021)  
   Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. 
   She joined the lab in September 2020. Outside the lab, she enjoys technical theater and serving as a Student Academic Advisor.
 </div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
-**Ali Eshghi** ’21 they/them (Special Studies Fall 2020 & Spring 2021)   
+**Ali Eshghi** ’21 (Special Studies Fall 2020 & Spring 2021)   
   Ali is a Computer Science and Engineering (BA) double major from Lincoln, MA. 
   They joined the lab in September 2020. Outside of lab they enjoy going for walks, 
   eating popcorn, and playing with their cat Socks. 
@@ -90,7 +90,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <img src="/images/Ester.jpeg"
      alt="Ester Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Ester Zhao** '21 she/her (Special Studies Fall 2020 & Spring 2021)  
+**Ester Zhao** '21 (Special Studies Fall 2020 & Spring 2021)  
   Ester is a Computer Science major and Statistical & Data Sciences minor from Lexington, MA. 
   She joined the lab in September 2020. When she isn't coding, she enjoys exploring nature 
   trails and arranging songs for her a cappella group, the Smithereens, of which she is President and Music Director.
@@ -100,7 +100,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <img src="/images/Isabella.jpg"
      alt="Isabella Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Isabella Brody-Calixto** '21 she/her or they/them (Special Studies Fall 2020 & Spring 2021)  
+**Isabella Brody-Calixto** '21 (Special Studies Fall 2020 & Spring 2021)  
   Isabella is a Computer Science and Philosophy double major from Arlington, VA. She is 
   interested in the intersection of privacy ethics and online ownership. Outside of academics 
   she enjoys hiking, reading fiction, and attempting to cuddle with her cat.
@@ -110,18 +110,8 @@ Megan competes on the varsity Smith College track and cross country team.
 **Ella Chang** '22 (Special Studies Fall 2020)  
 </div>
 
-<!--
-<div style = "height: 400px; margin: 25px;" markdown = "1">
-<img src="/images/Eleni.jpeg"
-     alt="Eleni Headshot"
-     style="float: right; height: 300px; padding-left: 30px;" />
-**Eleni Partakki** '22 she/her (Special Studies Fall 2020)  
-  Eleni is from Cyprus and Romania and joined the lab in September 2020. She is pursuing a double major in computer science and government. Outside of lab, Eleni enjoys cooking, exploring maps, riding her bike, and learning about birds.
-</div>
--->
-
 <div style = "height: 200px; margin: 25px;" markdown = "1">
-**Sophie Crane** ’22 she/her (Special Studies Fall 2020)   
+**Sophie Crane** ’22 (Special Studies Fall 2020)   
   Sophie is a Computer Science major from Atlanta, Georgia. She also enjoys practicing her 
   French, drawing, painting, and running.  
 </div>
@@ -130,7 +120,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <img src="/images/Yanning.jpg"
      alt="Yanning Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Yanning Tan** ’23 she/her (Special Studies Fall 2020, Volunteer 2021)  
+**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer 2021)  
   Yanning is a computer science major from China. She joined the lab in September 2020. 
   Outside of lab she enjoys drawing and creative writing.
 </div>
@@ -139,7 +129,7 @@ Megan competes on the varsity Smith College track and cross country team.
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Yesugen Baatartogtokh** ’23 she/her (Volunteer Spring 2021, SURF 2021)
+**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021)
 Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
 </div>
@@ -159,7 +149,7 @@ Outside of lab she enjoys sailing, kayaking, and spending time with her dog.
 <img src="/images/angela.jpg"
      alt="Name Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
-**Angela Chu** '23 she/her (SURF 2021)   
+**Angela Chu** '23 (SURF 2021)   
 Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
 </div>
 
@@ -169,12 +159,12 @@ Angela is a CS major from Dublin, CA. She will be joining the lab this year for 
      alt="Name Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
 -->
-**Irene Foster** '23 she/her (SURF 2021)   
+**Irene Foster** '23 (SURF 2021)   
 Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
 </div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
-**Manar Alnazer** ‘24 she/her (SURF 2021)   
+**Manar Alnazer** ‘24 (SURF 2021)   
 Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
 </div>
 
@@ -183,7 +173,7 @@ Manar is from the Middle East. She is majoring in computer science and is consid
      alt="Name Headshot"
      style="float: right; height: 300px; padding-left: 30px;" />
 -->
-**Catherine Kung** '22 she/her (SURF 2021)   
+**Catherine Kung** '22 (SURF 2021)   
 Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
 </div>
 
