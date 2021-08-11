@@ -68,7 +68,7 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/angela.jpg"
-     alt="Name Headshot"
+     alt="Angela Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Angela Chu** '23 (SURF 2021)   
 Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
@@ -89,6 +89,28 @@ Manar is from the Middle East. She is majoring in computer science and is consid
 Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
 </div>
 
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/maggie.jpeg"
+     alt="Maggie Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Maggie Hollis** '25 (STRIDE 2021-2023)  
+Maggie is from Narberth, PA and intends to be a Computer Science major. Outside of academics, she enjoys reading, exercising, and making/eating baked goods.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/anisha.png"
+     alt="Anisha Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Anisha Jain** '25 (STRIDE 2021-2023)  
+Anisha is pursuing a computer science major and is from Fairfax, VA. Outside of academics she enjoys drinking tea and reading cheesy novels.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/logo_smithcollegebadgeonly_cmyk.eps"
+     alt="Venus Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Venus Nguyen** '25 (AEMES 2021-2023)  
+</div>
 
 <!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -111,8 +133,8 @@ Lauren Forando '21 (Work Study 2019)
 Isabel Montesanto '21 (Senior Honors Thesis 2020-21)   
 Ester Zhao '21 (Special Studies Fall 2020 & Spring 2021)  
 Naomi Cebula '22 (SURF 2019, Special Studies Fall 2019)    
-Ella Chang** '22 (Special Studies Fall 2020)  
-Sophie Crane** ’22 (Special Studies Fall 2020)  
+Ella Chang '22 (Special Studies Fall 2020)  
+Sophie Crane ’22 (Special Studies Fall 2020)  
 Lily Diao '22 (SURF 2019, Special Studies Fall 2019)  
 Omema Ibrahim '22 (SURF 2019)  
 Kate Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
