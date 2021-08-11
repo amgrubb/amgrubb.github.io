@@ -39,6 +39,105 @@ are not in the lab, they can be found riding bikes or paddling a kayak on Smith
 College's Paradise Pond.
 </div>
 
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/Kathleen.jpg"
+     alt="Kathleen Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Kathleen Hablutzel** '23 (STRIDE 2020-2021)  
+  Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. 
+  She joined the lab in September 2020. Outside the lab, she enjoys technical theater and serving as a Student Academic Advisor.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/Yesugen.jpg"
+     alt="Yesugen Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021)
+Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
+Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/Yanning.jpg"
+     alt="Yanning Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer 2021)  
+  Yanning is a computer science major from China. She joined the lab in September 2020. 
+  Outside of lab she enjoys drawing and creative writing.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/angela.jpg"
+     alt="Name Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Angela Chu** '23 (SURF 2021)   
+Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
+</div>
+
+<div style = "height: 200px; margin: 25px;" markdown = "1">
+**Irene Foster** '23 (SURF 2021)   
+Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
+</div>
+
+<div style = "height: 200px; margin: 25px;" markdown = "1">
+**Manar Alnazer** ‘24 (SURF 2021)   
+Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
+</div>
+
+<div style = "height: 200px; margin: 25px;" markdown = "1">
+**Catherine Kung** '22 (SURF 2021)   
+Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
+</div>
+
+
+<!--
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/name.jpg"
+     alt="Name Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Name**
+</div>
+-->
+
+## Lab Alumni and Recent Members
+Yilin Lucy Wang '20 (SURF 2019, Senior Honors Thesis 2019-20)  
+<!--CMU, Master of Entertainment Technology, F20
+https://yilinwa2.wixsite.com/information
+http://www.etc.cmu.edu/wp-content/uploads/2013/08/Resume-Yilin-WangPDF.pdf
+-->
+Isabella Brody-Calixto '21 (Special Studies Fall 2020 & Spring 2021)  
+Ali Eshghi ’21 (Special Studies Fall 2020 & Spring 2021)  
+Lauren Forando '21 (Work Study 2019)  
+Isabel Montesanto '21 (Senior Honors Thesis 2020-21)   
+Ester Zhao '21 (Special Studies Fall 2020 & Spring 2021)  
+Naomi Cebula '22 (SURF 2019, Special Studies Fall 2019)    
+Ella Chang** '22 (Special Studies Fall 2020)  
+Sophie Crane** ’22 (Special Studies Fall 2020)  
+Lily Diao '22 (SURF 2019, Special Studies Fall 2019)  
+Omema Ibrahim '22 (SURF 2019)  
+Kate Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
+Megan Varnum '23 (STRIDE 2019-2021, SURF 2020)  
+
+## How to Join
+
+We are seeking new lab members interested in both software development and
+requirements research. There are different ways to conduct research in the Grubb
+Lab (e.g., volunteer, special studies, SURF, STRIDE, AEMES, or a senior honors thesis
+project). Those interested in development or software engineering research
+should have completed or be currently enrolled in CSC212. Ideally, students
+interested in pursuing a Senior Honors Thesis should contact Alicia in their
+junior year. Interested? Contact [Alicia](amgrubb@smith.edu). Not sure what to
+say? Review the “Recommendations for Emailing Professors” [on the Research at
+Smith page](https://www.smith.edu/academics/research-at-smith). Want to know
+what it’s like? Reach out to one of our current or past members.
+
+
+<img src="/images/ps.jpg" alt="Positive Space, Lesbian, Gay, Bisexual,
+     Transgender, Queer, Rainbow triangle" style="float: right; height: 100px;"
+     />
+
+
+<!--
 <div style = "height: 250px; margin: 25px; " markdown = "1">
 <img src="/images/megan.JPG"
      alt="Megan HeadShot"
@@ -70,14 +169,6 @@ Megan competes on the varsity Smith College track and cross country team.
   stop-motion, the outdoors, and abstract systems.
 </div>
 
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/Kathleen.jpg"
-     alt="Kathleen Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Kathleen Hablutzel** '23 (STRIDE 2020-2021)  
-  Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. 
-  She joined the lab in September 2020. Outside the lab, she enjoys technical theater and serving as a Student Academic Advisor.
-</div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
 **Ali Eshghi** ’21 (Special Studies Fall 2020 & Spring 2021)   
@@ -117,24 +208,6 @@ Megan competes on the varsity Smith College track and cross country team.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/Yanning.jpg"
-     alt="Yanning Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer 2021)  
-  Yanning is a computer science major from China. She joined the lab in September 2020. 
-  Outside of lab she enjoys drawing and creative writing.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/Yesugen.jpg"
-     alt="Yesugen Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021)
-Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
-Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/lauren.jpeg"
      alt="Lauren Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
@@ -143,66 +216,4 @@ Lauren is a statistical and data sciences major from Norwich, CT. She joined the
 She is especially interested in domain bias, female representation in STEM, and privacy ethics. 
 Outside of lab she enjoys sailing, kayaking, and spending time with her dog.
 </div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/angela.jpg"
-     alt="Name Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Angela Chu** '23 (SURF 2021)   
-Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
-</div>
-
-<div style = "height: 200px; margin: 25px;" markdown = "1">
-**Irene Foster** '23 (SURF 2021)   
-Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
-</div>
-
-<div style = "height: 200px; margin: 25px;" markdown = "1">
-**Manar Alnazer** ‘24 (SURF 2021)   
-Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
-</div>
-
-<div style = "height: 200px; margin: 25px;" markdown = "1">
-**Catherine Kung** '22 (SURF 2021)   
-Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
-</div>
-
-
-<!--
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpg"
-     alt="Name Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Name**
-</div>
 -->
-
-## Lab Alumni 
-Yilin Lucy Wang '20 (SURF 2019, Senior Honors Thesis 2019-20)  
-<!--CMU, Master of Entertainment Technology, F20
-https://yilinwa2.wixsite.com/information
-http://www.etc.cmu.edu/wp-content/uploads/2013/08/Resume-Yilin-WangPDF.pdf
--->
-Lily Diao '22 (SURF 2019, Special Studies Fall 2019)  
-Naomi Cebula '22 (SURF 2019, Special Studies Fall 2019)  
-Omema Ibrahim '22 (SURF 2019)  
-
-
-
-## How to Join
-
-We are seeking new lab members interested in both software development and
-requirements research. There are different ways to conduct research in the Grubb
-Lab (e.g., volunteer, special studies, SURF, STRIDE, AEMES, or a senior honors thesis
-project). Those interested in development or software engineering research
-should have completed or be currently enrolled in CSC212. Ideally, students
-interested in pursuing a Senior Honors Thesis should contact Alicia in their
-junior year. Interested? Contact [Alicia](amgrubb@smith.edu). Not sure what to
-say? Review the “Recommendations for Emailing Professors” [on the Research at
-Smith page](https://www.smith.edu/academics/research-at-smith). Want to know
-what it’s like? Reach out to one of our current or past members.
-
-
-<img src="/images/ps.jpg" alt="Positive Space, Lesbian, Gay, Bisexual,
-     Transgender, Queer, Rainbow triangle" style="float: right; height: 100px;"
-     />
