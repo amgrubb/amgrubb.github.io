@@ -44,8 +44,8 @@ College's Paradise Pond.
      alt="Kathleen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Kathleen Hablutzel** '23 (STRIDE 2020-2021)  
-  Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. 
-  She joined the lab in September 2020. Outside the lab, she enjoys technical theater and serving as a Student Academic Advisor.
+  Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. She joined the lab in September 2020. 
+  Outside of lab, she enjoys theater, running, and historical trivia.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
