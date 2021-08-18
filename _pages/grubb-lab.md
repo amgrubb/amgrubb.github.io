@@ -106,10 +106,11 @@ Anisha is pursuing a computer science major and is from Fairfax, VA. Outside of 
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/logo_smithcollegebadgeonly_cmyk.eps"
+<img src="/images/venus.jpg"
      alt="Venus Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Venus Nguyen** '25 (AEMES 2021-2023)  
+Venus is from Springfield, MA and is aiming towards majoring in computer science. Venus enjoys anything related to art, keeping busy and eating good!
 </div>
 
 <!--
