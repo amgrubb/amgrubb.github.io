@@ -14,7 +14,7 @@ and my Bacholors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-By appointment only.  
+Thursdays 4:15-5:15pm or by appointment in Ford Hall 355.  
 Appointments: [https://tinyurl.com/grubb-app](https://tinyurl.com/grubb-app)
 
 ### Research 
