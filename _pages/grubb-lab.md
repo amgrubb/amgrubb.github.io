@@ -43,7 +43,7 @@ College's Paradise Pond.
 <img src="/images/Kathleen.jpg"
      alt="Kathleen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Kathleen Hablutzel** '23 (STRIDE 2020-2021)  
+**Kathleen Hablutzel** '23 (STRIDE 2020-2021, NSF Funded 2021-2022)  
   Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. She joined the lab in September 2020. 
   Outside of lab, she enjoys theater, running, and historical trivia.
 </div>
@@ -52,7 +52,7 @@ College's Paradise Pond.
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021)
+**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022)
 Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
 </div>
@@ -61,43 +61,25 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
 <img src="/images/Yanning.jpg"
      alt="Yanning Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer 2021)  
+**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021)  
   Yanning is a computer science major from China. She joined the lab in September 2020. 
   Outside of lab she enjoys drawing and creative writing.
 </div>
 
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/angela.jpg"
-     alt="Angela Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Angela Chu** '23 (SURF 2021)   
-Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
-</div>
+
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
-**Irene Foster** '23 (SURF 2021)   
+**Irene Foster** '23 (SURF 2021, NSF Funded 2021-2022)   
 Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
 </div>
 
-<div style = "height: 200px; margin: 25px;" markdown = "1">
-**Manar Alnazer** ‘24 (SURF 2021)   
-Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
-</div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
-**Catherine Kung** '22 (SURF 2021)   
+**Catherine Kung** '22 (SURF 2021, NSF Funded 2021-2022)   
 Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
 </div>
 
-<!--
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/maggie.jpeg"
-     alt="Maggie Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Maggie Hollis** '25 (STRIDE 2021-2023)  
-Maggie is from Narberth, PA and intends to be a Computer Science major. Outside of academics, she enjoys reading, exercising, and making/eating baked goods.
-</div>
--->
+
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/anisha.png"
@@ -114,6 +96,43 @@ Anisha is pursuing a computer science major and is from Fairfax, VA. Outside of 
 **Venus Nguyen** '25 (AEMES 2021-2023)  
 Venus is from Springfield, MA and is aiming towards majoring in computer science. Venus enjoys anything related to art, keeping busy and eating good!
 </div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/thu.jpg"
+     alt="Thu Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Thu Tran** '24 (Volunteer Spring 2022)  
+Thu is a Computer Science major from Vietnam. Outside of classes, she enjoys taking random photos, watching Youtube and taking walks with friends and family.
+</div>
+
+<!--
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/name.jpg"
+     alt="Name Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Name**
+</div>
+-->
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/sonora.jpg"
+     alt="Sonora Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Sonora Halili** '25 (Spring 2022)  
+Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
+</div>
+
+
+
+<!--
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/maggie.jpeg"
+     alt="Maggie Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Maggie Hollis** '25 (STRIDE 2021-2023)  
+Maggie is from Narberth, PA and intends to be a Computer Science major. Outside of academics, she enjoys reading, exercising, and making/eating baked goods.
+</div>
+-->
 
 <!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -141,7 +160,9 @@ Sophie Crane ’22 (Special Studies Fall 2020)
 Lily Diao '22 (SURF 2019, Special Studies Fall 2019)  
 Omema Ibrahim '22 (SURF 2019)  
 Kate Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
+Angela Chu '23 (SURF 2021)
 Megan Varnum '23 (STRIDE 2019-2021, SURF 2020)  
+Manar Alnazer ‘24 (SURF 2021)  
 
 ## How to Join
 
@@ -162,7 +183,23 @@ what it’s like? Reach out to one of our current or past members.
      />
 
 
+
 <!--
+
+<div style = "height: 200px; margin: 25px;" markdown = "1">
+**Manar Alnazer** ‘24 (SURF 2021)   
+Manar is from the Middle East. She is majoring in computer science and is considering minoring in Middle East Studies. In her free time, Manar works as a content creator for the Middle East Studies Journal at Smith College. Manar also likes to read corny young adult books, to walk, to paint, and is currently trying to learn German.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/angela.jpg"
+     alt="Angela Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Angela Chu** '23 (SURF 2021)   
+Angela is a CS major from Dublin, CA. She will be joining the lab this year for Summer 2021. Outside of academics she enjoys playing the piano and badminton. 
+</div>
+
+
 <div style = "height: 250px; margin: 25px; " markdown = "1">
 <img src="/images/megan.JPG"
      alt="Megan HeadShot"
