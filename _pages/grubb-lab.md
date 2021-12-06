@@ -89,6 +89,7 @@ Manar is from the Middle East. She is majoring in computer science and is consid
 Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
 </div>
 
+<!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/maggie.jpeg"
      alt="Maggie Headshot"
@@ -96,6 +97,7 @@ Catherine is an SDS and psychology major that has become particularly interested
 **Maggie Hollis** '25 (STRIDE 2021-2023)  
 Maggie is from Narberth, PA and intends to be a Computer Science major. Outside of academics, she enjoys reading, exercising, and making/eating baked goods.
 </div>
+-->
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/anisha.png"
