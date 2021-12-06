@@ -160,7 +160,7 @@ Sophie Crane ’22 (Special Studies Fall 2020)
 Lily Diao '22 (SURF 2019, Special Studies Fall 2019)  
 Omema Ibrahim '22 (SURF 2019)  
 Kate Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
-Angela Chu '23 (SURF 2021)
+Angela Chu '23 (SURF 2021)  
 Megan Varnum '23 (STRIDE 2019-2021, SURF 2020)  
 Manar Alnazer ‘24 (SURF 2021)  
 
