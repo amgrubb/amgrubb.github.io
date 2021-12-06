@@ -115,7 +115,7 @@ Thu is a Computer Science major from Vietnam. Outside of classes, she enjoys tak
 -->
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/sonora.jpg"
+<img src="/images/sonora.jpeg"
      alt="Sonora Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Sonora Halili** '25 (Spring 2022)  
