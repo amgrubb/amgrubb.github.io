@@ -105,14 +105,13 @@ Venus is from Springfield, MA and is aiming towards majoring in computer science
 Thu is a Computer Science major from Vietnam. Outside of classes, she enjoys taking random photos, watching Youtube and taking walks with friends and family.
 </div>
 
-<!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/name.jpg"
      alt="Name Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Name**
+**Cyrine Ben Ayed** '24 (Spring 2022) 
+Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
 </div>
--->
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/sonora.jpeg"
