@@ -106,8 +106,8 @@ Thu is a Computer Science major from Vietnam. Outside of classes, she enjoys tak
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpg"
-     alt="Name Headshot"
+<img src="/images/cyrine.jpg"
+     alt="Cyrine Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Cyrine Ben Ayed** '24 (Spring 2022) 
 Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
