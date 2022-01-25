@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**SURF 2022** [I'm hiring SURF students this summer. Please apply and rank my lab highly.](https://smithcollege.qualtrics.com/jfe/form/SV_0weEdxIWxMU9iCy) _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/)._
+__**SURF 2022**__ [I'm hiring SURF students this summer. Please apply and rank my lab highly.](https://smithcollege.qualtrics.com/jfe/form/SV_0weEdxIWxMU9iCy) _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/)._
 
 ### Intro
 
-I joined [Smith College](www.smith.edu) as an Assistant Professor in the Department of [Computer Science](http://cs.smith.edu/) in 2019. 
+I am an Assistant Professor in the Department of [Computer Science](http://cs.smith.edu/) at [Smith College](www.smith.edu). 
 I completed my Doctorate and Masters at the University of Toronto in Computer Science, 
 and my Bacholors at the University of Waterloo in Software Engineering.
 
@@ -32,7 +32,7 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 
 ### Teaching 
 
-* CSC 111: [Introduction to Computer Science Through Programming](https://amgrubb.github.io/csc111) - S19, S20, S21
+* CSC 111: [Introduction to Computer Science Through Programming](https://amgrubb.github.io/csc111) - S19, S20, S21, S22
 * CSC 223: [Introduction to Software Engineering](files/CSC223F19.pdf) - F19
 * CSC 231: Microprocessors and Assembly Language - F20
 * CSC 325: [Seminar: Responsible Computing](files/CSC325F19.pdf) - [F19, F20](https://doi.org/10.35482/csc.002.2021), F21
