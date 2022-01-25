@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+**SURF 2022** [I'm hiring SURF students this summer. Please apply and rank my lab highly.](https://smithcollege.qualtrics.com/jfe/form/SV_0weEdxIWxMU9iCy) _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/)._
+
+### Intro
+
 I joined [Smith College](www.smith.edu) as an Assistant Professor in the Department of [Computer Science](http://cs.smith.edu/) in 2019. 
 I completed my Doctorate and Masters at the University of Toronto in Computer Science, 
 and my Bacholors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-Thursdays 4:15-5:15pm or by appointment in Ford Hall 355.  
+Spring 2022: T.B.A. <!--Thursdays 4:15-5:15pm or by appointment in Ford Hall 355.  -->
 Appointments: [https://tinyurl.com/grubb-app](https://tinyurl.com/grubb-app)
 
 ### Research 
@@ -32,6 +36,8 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 * CSC 223: [Introduction to Software Engineering](files/CSC223F19.pdf) - F19
 * CSC 231: Microprocessors and Assembly Language - F20
 * CSC 325: [Seminar: Responsible Computing](files/CSC325F19.pdf) - [F19, F20](https://doi.org/10.35482/csc.002.2021), F21
+
+### Additional Information and Links
 
 Students can provide me with [anonymous course feedback](https://forms.gle/vAFiNqMaovom9Gjf8) or let me know how I can create a more [inclusive learning environment](https://forms.gle/ZT7s6q8mA1Lz3eZV7).
 
