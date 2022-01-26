@@ -8,17 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-__**SURF 2022**__ [I'm hiring SURF students this summer. Please apply and rank my lab highly.](https://smithcollege.qualtrics.com/jfe/form/SV_0weEdxIWxMU9iCy) _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/)._
-
-Each summer I accept 5-8 students interested in software development and/or empirical research (i.e., Software Engineering). 
-
-We usually have at least one development project ongoing using our tool [BloomingLeaf](http://www.cs.toronto.edu/~amgrubb/dev/blooming/) and this summer is no exception. We seek the help of enthusiastic students with strong programming skills and an exposure to web development (javaScript), who have excellent communication skills (written/verbal English) and an ability to work independently and collaboratively. Our [online codebase](https://github.com/amgrubb/BloomingLeaf) will help you create a portfolio for future applications to employers and graduate schools. In prior development projects, we worked on [refactoring our code base](https://amgrubb.github.io/posts/2021-04-01-restructuring) to enable new model management features and [restructured the code base](https://amgrubb.github.io/posts/2021-08-13-backbone-refactor) to take advantage of underlying libraries. Our next step is to continue to implement new visualizations and model management features.
-
-For those more interested in empirical software engineering research, we are currently working on evaluating the usability of some of the algorithms we've developed over the past two years. Past SURF research projects include [studying goal model construction](https://amgrubb.github.io/posts/2019-09-01-goal-model-construction-study) and [evaluating a framework for uncertainty](https://amgrubb.github.io/posts/2020-08-20-covid-uncertainties).
-Additionally, we are investigating how to model artifacts in a GitHub repository. These are evolving projects and we welcome the insights of enthusiastic students interested in research, who have excellent communication skills (written/verbal English) and an ability to work independently and collaboratively. 
-Students with an interest in research and/or an interest in quantitative (e.g., spreadsheets, r, statistics) or qualitative (e.g., open coding, ethnography) data analysis should state this on their application.
-
-See more details about the Grubb Lab and other student projects at [https://amgrubb.github.io/grubb-lab/](https://amgrubb.github.io/grubb-lab/)
+__**SURF 2022**__ [I'm hiring SURF students this summer. Please apply and rank my lab highly.](https://smithcollege.qualtrics.com/jfe/form/SV_0weEdxIWxMU9iCy) _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/), also the description at the bottom of our [lab page](https://amgrubb.github.io/grubb-lab/)._
 
 ---
 
