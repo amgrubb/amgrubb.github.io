@@ -7,7 +7,9 @@ author_profile: false
 ---
 {% include base_path %}
 
+<!--
 __**SURF 2022**__  [I'm hiring SURF students this summer. Please apply and rank my lab highly.](https://smithcollege.qualtrics.com/jfe/form/SV_0weEdxIWxMU9iCy) _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/)._
+-->
 
 <div>
 <img src="/images/site-logo.png"
