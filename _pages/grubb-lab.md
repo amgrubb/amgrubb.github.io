@@ -65,7 +65,7 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
 <img src="/images/Yanning.jpg"
      alt="Yanning Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021)  
+**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
   Yanning is a computer science major from China. She joined the lab in September 2020. 
   Outside of lab she enjoys drawing and creative writing.
 </div>
@@ -73,6 +73,9 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
 
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
+<img src="/images/irene.jpg"
+     alt="Irene Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
 **Irene Foster** '23 (SURF 2021, NSF Funded 2021-2022)   
 Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
 </div>
@@ -113,7 +116,7 @@ Thu is a Computer Science major from Vietnam. Outside of classes, she enjoys tak
 <img src="/images/cyrine.jpg"
      alt="Cyrine Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Cyrine Ben Ayed** '24 (Spring 2022) 
+**Cyrine Ben Ayed** '24 (Volunteer Spring 2022) 
 Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
 </div>
 
@@ -121,7 +124,7 @@ Cyrine is an Engineering Science major and a Computer Science minor from Tunis, 
 <img src="/images/sonora.jpeg"
      alt="Sonora Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Sonora Halili** '25 (Spring 2022)  
+**Sonora Halili** '25 (Volunteer Spring 2022)  
 Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
 </div>
 
