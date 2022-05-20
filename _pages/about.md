@@ -20,8 +20,11 @@ and my Bacholors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-Spring 2022: In-person on Wednesday 6-7pm in Ford Hall 355. Online (Zoom) during times listed in my [appointment calendar](https://tinyurl.com/grubb-app).  <!--Thursdays 4:15-5:15pm or by appointment in Ford Hall 355.  -->
+*On sabbatical July 2022-June 2023. Email for an appointment.*
+<!--
+Spring 2022: In-person on Wednesday 6-7pm in Ford Hall 355. Online (Zoom) during times listed in my [appointment calendar](https://tinyurl.com/grubb-app).  
 Appointments: [https://tinyurl.com/grubb-app](https://tinyurl.com/grubb-app)
+-->
 
 ### Research 
 My research focuses on how individuals learn, make decisions and understand change, and 
