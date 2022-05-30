@@ -56,7 +56,7 @@ College's Paradise Pond.
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022)
+**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022)  
 Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
 </div>
@@ -109,7 +109,7 @@ Thu is a Computer Science major from Vietnam. Outside of classes, she enjoys tak
 <img src="/images/cyrine.jpg"
      alt="Cyrine Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Cyrine Ben Ayed** '24 (Volunteer Spring 2022) 
+**Cyrine Ben Ayed** '24 (Volunteer Spring 2022)  
 Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
 </div>
 
@@ -165,14 +165,14 @@ https://yilinwa2.wixsite.com/information
 http://www.etc.cmu.edu/wp-content/uploads/2013/08/Resume-Yilin-WangPDF.pdf
 -->
 Isabella Brody-Calixto '21 (Special Studies Fall 2020 & Spring 2021)  
-Ali Eshghi ’21 (Special Studies Fall 2020 & Spring 2021)  
+Ali Eshghi '21 (Special Studies Fall 2020 & Spring 2021)  
 Lauren Forando '21 (Work Study 2019)  
 Isabel Montesanto '21 (Senior Honors Thesis 2020-21)   
 Ester Zhao '21 (Special Studies Fall 2020 & Spring 2021)  
 Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
 Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)  
 Ella Chang '22 (Special Studies Fall 2020)  
-Sophie Crane ’22 (Special Studies Fall 2020)  
+Sophie Crane '22 (Special Studies Fall 2020)  
 Omema Ibrahim '22 (SURF 2019)  
 Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)    
 Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
