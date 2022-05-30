@@ -47,7 +47,7 @@ College's Paradise Pond.
 <img src="/images/Kathleen.jpg"
      alt="Kathleen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Kathleen Hablutzel** '23 (STRIDE 2020-2021, NSF Funded 2021-2022)  
+**Kathleen Hablutzel** '23J (STRIDE 2020-2021, NSF Funded 2021-2022)  
   Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. She joined the lab in September 2020. 
   Outside of lab, she enjoys theater, running, and historical trivia.
 </div>
@@ -56,7 +56,7 @@ College's Paradise Pond.
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022)
+**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022)
 Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
 </div>
@@ -76,23 +76,16 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
 <img src="/images/irene.jpg"
      alt="Irene Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Irene Foster** '23 (SURF 2021, NSF Funded 2021-2022)   
+**Irene Foster** '23 (SURF 2021, NSF Funded 2021-2022, SURF 2022)   
 Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
 </div>
-
-
-<div style = "height: 200px; margin: 25px;" markdown = "1">
-**Catherine Kung** '22 (SURF 2021, NSF Funded 2021-2022)   
-Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
-</div>
-
 
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/anisha.png"
      alt="Anisha Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Anisha Jain** '25 (STRIDE 2021-2023)  
+**Anisha Jain** '25 (STRIDE 2021-2023, SURF 2022)  
 Anisha is pursuing a computer science major and is from Fairfax, VA. Outside of academics she enjoys drinking tea and reading cheesy novels.
 </div>
 
@@ -100,7 +93,7 @@ Anisha is pursuing a computer science major and is from Fairfax, VA. Outside of 
 <img src="/images/venus.jpg"
      alt="Venus Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Venus Nguyen** '25 (AEMES 2021-2023)  
+**Venus Nguyen** '25 (AEMES 2021-2023, SURF 2022)  
 Venus is from Springfield, MA and is aiming towards majoring in computer science. Venus enjoys anything related to art, keeping busy and eating good!
 </div>
 
@@ -124,7 +117,7 @@ Cyrine is an Engineering Science major and a Computer Science minor from Tunis, 
 <img src="/images/sonora.jpeg"
      alt="Sonora Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Sonora Halili** '25 (Volunteer Spring 2022)  
+**Sonora Halili** '25 (Volunteer Spring 2022, SURF 2022)  
 Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
 </div>
 
@@ -139,6 +132,22 @@ Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she e
 Maggie is from Narberth, PA and intends to be a Computer Science major. Outside of academics, she enjoys reading, exercising, and making/eating baked goods.
 </div>
 -->
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/joey.jpeg"
+     alt="Joey Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Joey Elsbernd** '25 (SURF 2022)  
+Joey is a future computer science major from Miami, Florida. In her free time she enjoys playing ice hockey, watching bad reality television, and trying new foods.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/xinran.jpeg"
+     alt="Xinran Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Xinran Bi** '25J (SURF 2022)  
+Xinran is a Computer Science and Mathematical Statistics double major from Shanghai, China. Outside of academics, she enjoys singing in different languages, binge-watching anime, and cooking.
+</div>
 
 <!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -160,12 +169,13 @@ Ali Eshghi ’21 (Special Studies Fall 2020 & Spring 2021)
 Lauren Forando '21 (Work Study 2019)  
 Isabel Montesanto '21 (Senior Honors Thesis 2020-21)   
 Ester Zhao '21 (Special Studies Fall 2020 & Spring 2021)  
-Naomi Cebula '22 (SURF 2019, Special Studies Fall 2019)    
+Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
+Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)  
 Ella Chang '22 (Special Studies Fall 2020)  
 Sophie Crane ’22 (Special Studies Fall 2020)  
-Lily Diao '22 (SURF 2019, Special Studies Fall 2019)  
 Omema Ibrahim '22 (SURF 2019)  
-Kate Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
+Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)    
+Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Angela Chu '23 (SURF 2021)  
 Megan Varnum '23 (STRIDE 2019-2021, SURF 2020)  
 Manar Alnazer ‘24 (SURF 2021)  
@@ -203,6 +213,11 @@ _Note: The last page of the application, asks for a title and brief description 
 
 
 <!--
+
+<div style = "height: 200px; margin: 25px;" markdown = "1">
+**Catherine Kung** '22 (SURF 2021, NSF Funded 2021-2022)   
+Catherine is an SDS and psychology major that has become particularly interested in visual analysis and representations over her courses at Smith College. She has lived in 5 different countries before coming back to the US, so she finds it difficult to pinpoint where she is from. Outside of classes, Catherine enjoy archery, acting, and reading. Catherine also really, REALLY likes bubble tea.
+</div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
 **Manar Alnazer** ‘24 (SURF 2021)   
