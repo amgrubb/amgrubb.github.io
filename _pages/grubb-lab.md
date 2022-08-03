@@ -138,7 +138,7 @@ Maggie is from Narberth, PA and intends to be a Computer Science major. Outside 
      alt="Joey Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Joey Elsbernd** '25 (SURF 2022)  
-Joey is a future computer science major from Miami, Florida. In her free time she enjoys playing ice hockey, watching bad reality television, and trying new foods.
+Joey is a future computer science major from Miami, Florida. In her free time she enjoys playing ice hockey, watching bad reality television, and painting ugly pictures of her beautiful dogs.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
