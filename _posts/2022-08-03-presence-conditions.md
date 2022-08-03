@@ -7,7 +7,7 @@ layout: archive
 ---
 
 **Presence Conditions Within BloomingLeaf Tool**  
-**_Venus Nguyen, Xinran Bi_**
+**_2021 SURF Abstract by Venus Nguyen, Xinran Bi_**
 
 We introduced presence conditions in BloomingLeaf to visualize changes within the goal model’s evolution. BloomingLeaf is an analysis and modeling tool that allows users to model goals that evolve over time. These models consist of intentions, actors, and links. By evaluating the changes in intentions over time, users are better able to understand future project evolutions and make decisions from them. A presence condition states whether a model element (i.e., intention or actor) exists at a particular time point in the project’s evolution.
 
