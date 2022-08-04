@@ -149,6 +149,22 @@ Joey is a future computer science major from Miami, Florida. In her free time sh
 Xinran is a Computer Science and Mathematical Statistics double major from Shanghai, China. Outside of academics, she enjoys singing in different languages, binge-watching anime, and cooking.
 </div>
 
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/molly.jpeg"
+     alt="Molly Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Molly Daniel** '26 (STRIDE 2022-2024)  
+Molly is a computer science major from Evanston, Illinois. She joined the lab in September 2022. Outside of academics, she enjoys playing hockey and video games.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/emily.jpeg"
+     alt="Emily Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Emily Kung** '25J (STRIDE 2022-2024)  
+Emily aims toward pursuing computer science and fine arts. Her favorite hobby includes watching anime, reading manga, and playing video games.
+</div>
+
 <!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/name.jpg"
