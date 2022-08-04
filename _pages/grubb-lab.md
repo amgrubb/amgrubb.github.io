@@ -182,6 +182,8 @@ Manar Alnazer ‘24 (SURF 2021)
 
 ## How to Join
 
+_Fall 2022: Our lab is currently at capacity. If you are interested in joining in a future semester, please let Alicia know._
+
 We are seeking new lab members interested in both software development and
 requirements research. There are different ways to conduct research in the Grubb
 Lab (e.g., volunteer, special studies, SURF, STRIDE, AEMES, or a senior honors thesis
