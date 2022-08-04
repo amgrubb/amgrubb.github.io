@@ -161,7 +161,7 @@ Molly is a computer science major from Evanston, Illinois. She joined the lab in
 <img src="/images/emily.jpeg"
      alt="Emily Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Emily Kung** '25J (STRIDE 2022-2024)  
+**Emily Kung** '26 (STRIDE 2022-2024)  
 Emily aims toward pursuing computer science and fine arts. Her favorite hobby includes watching anime, reading manga, and playing video games.
 </div>
 
