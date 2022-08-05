@@ -9,3 +9,5 @@ citation: ' Kathleen R Hablutzel,  Anisha Jain,  Alicia M Grubb, "A Divide & Con
 layout: archive
 ---
  Kathleen R Hablutzel,  Anisha Jain,  Alicia M Grubb, "A Divide & Concur Approach to Collaborative Goal Modeling with Merge in Early-RE: Supplemental Material." Proceedings of the IEEE 30th International Requirements Engineering Conference (RE), 2022.
+
+[Supplementary Information](https://conf.researchr.org/details/RE-2022/RE-2022-Research-Papers/11/A-Divide-Concur-Approach-to-Collaborative-Goal-Modeling-with-Merge-in-Early-RE)
