@@ -77,7 +77,7 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
      alt="Irene Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Irene Foster** '23 (SURF 2021, NSF Funded 2021-2022, SURF 2022)   
-Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys hiking, running, and managing the Smith hockey team.
+Irene is a Statistical & Data Science major and a Environmental Science & Policy minor from Saugerties, NY. She joined the lab in June 2021. Outside of the lab she enjoys playing hockey, hiking, and running.
 </div>
 
 
