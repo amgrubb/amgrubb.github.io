@@ -46,4 +46,6 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 
 Students can provide me with [anonymous course feedback](https://forms.gle/vAFiNqMaovom9Gjf8) or let me know how I can create a more [inclusive learning environment](https://forms.gle/ZT7s6q8mA1Lz3eZV7).
 
+[Computer Science](https://www.smith.edu/academics/computer-science) also provides an [anonymous form](https://forms.gle/ivNdENCtDsQqEyMC7) for feedback and ideas from students. 
+
 Looking for a reference letter, please read [this page](/letters/).
