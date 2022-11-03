@@ -61,16 +61,6 @@ Yesugen is a Computer Science major from Ulaanbaatar, Mongolia.
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
 </div>
 
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/Yanning.jpg"
-     alt="Yanning Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
-  Yanning is a computer science major from China. She joined the lab in September 2020. 
-  Outside of lab she enjoys drawing and creative writing.
-</div>
-
-
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
 <img src="/images/irene.jpg"
@@ -120,8 +110,6 @@ Cyrine is an Engineering Science major and a Computer Science minor from Tunis, 
 **Sonora Halili** '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)  
 Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
 </div>
-
-
 
 <!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -200,10 +188,11 @@ Omema Ibrahim '22 (SURF 2019)
 Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)  
 Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
 Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)    
-Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Angela Chu '23 (SURF 2021)  
-Megan Varnum '23 (STRIDE 2019-2021, SURF 2020)  
-Manar Alnazer ‘24 (SURF 2021)  
+Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
+Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
+Manar Alnazer '24 (SURF 2021)  
+Megan Varnum '24 (STRIDE 2019-2021, SURF 2020)  
 
 ## How to Join
 
@@ -240,6 +229,14 @@ _Note: The last page of the application, asks for a title and brief description 
 
 
 <!--
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/Yanning.jpg"
+     alt="Yanning Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Yanning Tan** ’23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
+  Yanning is a computer science major from China. She joined the lab in September 2020. 
+  Outside of lab she enjoys drawing and creative writing.
+</div>
 
 <div style = "height: 200px; margin: 25px;" markdown = "1">
 **Catherine Kung** '22 (SURF 2021, NSF Funded 2021-2022)   
