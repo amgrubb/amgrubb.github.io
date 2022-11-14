@@ -165,7 +165,7 @@ Emily aims toward pursuing computer science and fine arts. Her favorite hobby in
 <img src="/images/megan.JPG"
      alt="Megan HeadShot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Megan Varnum** '23 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022)  
+**Megan Varnum** '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022)  
 Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
 She is pursuing a double major in engineering and computer science. Outside of academics, 
 Megan competes on the varsity Smith College track and cross country team.
@@ -176,7 +176,7 @@ Megan competes on the varsity Smith College track and cross country team.
      alt="Name Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 -->
-**Bobi Arce Mack**
+**Bobi Arce Mack** '24 (Volunteer Fall 2022)  
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -222,7 +222,7 @@ Manar Alnazer '24 (SURF 2021)
 
 ## How to Join
 
-_Fall 2022: Our lab is currently at capacity. If you are interested in joining in a future semester, please let Alicia know._
+_Fall 2022: Our lab is currently at capacity. If you are interested in joining in a future semester, please let Alicia know. We anticipate accepting new members in the spring for the summer SURF program._
 
 We are seeking new lab members interested in both software development and
 requirements research. There are different ways to conduct research in the Grubb
