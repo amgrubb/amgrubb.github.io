@@ -161,6 +161,32 @@ Molly is a computer science major from Evanston, Illinois. She joined the lab in
 Emily aims toward pursuing computer science and fine arts. Her favorite hobby includes watching anime, reading manga, and playing video games.
 </div>
 
+<div style = "height: 250px; margin: 25px; " markdown = "1">
+<img src="/images/megan.JPG"
+     alt="Megan HeadShot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Megan Varnum** '23 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022)  
+Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
+She is pursuing a double major in engineering and computer science. Outside of academics, 
+Megan competes on the varsity Smith College track and cross country team.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<!--<img src="/images/name.jpg"
+     alt="Name Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+-->
+**Bobi Arce Mack**
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/annie.jpg"
+     alt="Annie Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Annie Karitonze** '25J (Volunteer Fall 2022)  
+Annie is a double major in Computer Science and Mathematical Statistics from Burundi. She enjoys dancing, reading and hanging out with friends when she is not in class.
+</div>
+
 <!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/name.jpg"
@@ -192,7 +218,7 @@ Angela Chu '23 (SURF 2021)
 Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
 Manar Alnazer '24 (SURF 2021)  
-Megan Varnum '24 (STRIDE 2019-2021, SURF 2020)  
+
 
 ## How to Join
 
