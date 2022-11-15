@@ -167,8 +167,7 @@ Emily aims toward pursuing computer science and fine arts. Her favorite hobby in
      style="float: right; height: 200px; padding-left: 30px;" />
 **Megan Varnum** '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022)  
 Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
-She is pursuing a double major in engineering and computer science. Outside of academics, 
-Megan competes on the varsity Smith College track and cross country team.
+She is pursuing a double major in Computer Science and Mathematical Statistics. Outside of academics, Megan competes on the varsity Smith College track and cross country team.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -177,6 +176,7 @@ Megan competes on the varsity Smith College track and cross country team.
      style="float: right; height: 200px; padding-left: 30px;" />
 -->
 **Bobi Arce Mack** '24 (Volunteer Fall 2022)  
+Bobi is a Computer Science major from San Diego, California. Outside of the lab, she enjoys hanging out with her friends, trying new things, and traveling.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
