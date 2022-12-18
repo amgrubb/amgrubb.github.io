@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-__**SURF 2023**__ I'm hiring *new* SURF students this summer. Please email amgrubb@smith.edu with your resume, (unofficial) transcript, and a writing sample to apply.
+__**SURF 2023**__ I'm hiring *new* SURF students this summer. Please email amgrubb@smith.edu with your resume, _unofficial_ transcript, and a writing sample to apply.
 
 <!--
 [I'm hiring SURF students this summer. Please apply and rank my lab highly.](https://smithcollege.qualtrics.com/jfe/form/SV_0weEdxIWxMU9iCy) _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/), also the description at the bottom of our [lab page](https://amgrubb.github.io/grubb-lab/)._
