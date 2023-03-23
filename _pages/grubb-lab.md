@@ -44,15 +44,6 @@ College's Paradise Pond.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/Kathleen.jpg"
-     alt="Kathleen Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Kathleen Hablutzel** '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall 2022)  
-  Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. She joined the lab in September 2020. 
-  Outside of lab, she enjoys theater, running, and historical trivia.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Yesugen.jpg"
      alt="Yesugen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
@@ -99,7 +90,7 @@ Thu is a Computer Science major from Vietnam. Outside of classes, she enjoys tak
 <img src="/images/cyrine.jpg"
      alt="Cyrine Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Cyrine Ben Ayed** '24 (Volunteer Spring 2022, NSF Funded 2022-2023)  
+**Cyrine Ben Ayed** '24 (Volunteer Spring 2022, NSF Funded Fall 2022)  
 Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
 </div>
 
@@ -133,7 +124,7 @@ Joey is a future computer science major from Miami, Florida. In her free time sh
 <img src="/images/xinran.jpeg"
      alt="Xinran Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Xinran Bi** '25J (SURF 2022, Special Studies Fall 2022)  
+**Xinran Bi** '25J (SURF 2022, Special Studies 2022-23)  
 Xinran is a Computer Science and Mathematical Statistics double major from Shanghai, China. Outside of academics, she enjoys singing in different languages, binge-watching anime, and cooking.
 </div>
 
@@ -165,7 +156,7 @@ Emily aims toward pursuing computer science and fine arts. Her favorite hobby in
 <img src="/images/megan.JPG"
      alt="Megan HeadShot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Megan Varnum** '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022)  
+**Megan Varnum** '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Studies Spring 2023)  
 Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
 She is pursuing a double major in Computer Science and Mathematical Statistics. Outside of academics, Megan competes on the varsity Smith College track and cross country team.
 </div>
@@ -175,7 +166,7 @@ She is pursuing a double major in Computer Science and Mathematical Statistics. 
      alt="Name Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 -->
-**Bobi Arce Mack** '24 (Volunteer Fall 2022)  
+**Bobi Arce Mack** '24 (Volunteer Fall 2022, NSF Funded Spring 2023)  
 Bobi is a Computer Science major from San Diego, California. Outside of the lab, she enjoys hanging out with her friends, trying new things, and traveling.
 </div>
 
@@ -183,7 +174,7 @@ Bobi is a Computer Science major from San Diego, California. Outside of the lab,
 <img src="/images/annie.jpg"
      alt="Annie Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Annie Karitonze** '25J (Volunteer Fall 2022)  
+**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023)  
 Annie is a double major in Computer Science and Mathematical Statistics from Burundi. She enjoys dancing, reading and hanging out with friends when she is not in class.
 </div>
 
@@ -213,7 +204,8 @@ Sophie Crane '22 (Special Studies Fall 2020)
 Omema Ibrahim '22 (SURF 2019)  
 Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)  
 Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
-Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)    
+Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)
+Kathleen Hablutzel '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall 2022)    
 Angela Chu '23 (SURF 2021)  
 Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
@@ -222,7 +214,7 @@ Manar Alnazer '24 (SURF 2021)
 
 ## How to Join
 
-_Spring 2023: Our lab is currently at capacity. If you are interested in joining us for SURF this summer, please see below._
+_Spring 2023: Our lab is currently at capacity._
 
 We are seeking new lab members interested in both software development and
 requirements research. There are different ways to conduct research in the Grubb
@@ -254,9 +246,18 @@ _Note: The last page of the application, asks for a title and brief description 
      Transgender, Queer, Rainbow triangle" style="float: right; height: 100px;"
      />
 
-
-
 <!--
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/Kathleen.jpg"
+     alt="Kathleen Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Kathleen Hablutzel** '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall 2022)  
+  Kathleen is a double major in computer science and statistical and data sciences from Chapel Hill, NC. She joined the lab in September 2020. 
+  Outside of lab, she enjoys theater, running, and historical trivia.
+</div>
+
+
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Yanning.jpg"
      alt="Yanning Headshot"
