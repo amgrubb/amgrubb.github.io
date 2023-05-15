@@ -124,7 +124,7 @@ Joey is a future computer science major from Miami, Florida. In her free time sh
 <img src="/images/xinran.jpeg"
      alt="Xinran Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Xinran Bi** '25J (SURF 2022, Special Studies 2022-23)  
+**Xinran Bi** '25J (SURF 2022, Special Studies 2022-23, SURF 2023)  
 Xinran is a Computer Science and Mathematical Statistics double major from Shanghai, China. Outside of academics, she enjoys singing in different languages, binge-watching anime, and cooking.
 </div>
 
@@ -140,7 +140,7 @@ Sasha is majoring in computer science and statistical and data sciences and is f
 <img src="/images/molly.jpeg"
      alt="Molly Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Molly Daniel** '26 (STRIDE 2022-2024)  
+**Molly Daniel** '26 (STRIDE 2022-2024, SURF 2023)  
 Molly is a computer science major from Evanston, Illinois. She joined the lab in September 2022. Outside of academics, she enjoys playing hockey and video games.
 </div>
 
@@ -148,7 +148,7 @@ Molly is a computer science major from Evanston, Illinois. She joined the lab in
 <img src="/images/emily.jpeg"
      alt="Emily Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Emily Kung** '26 (STRIDE 2022-2024)  
+**Emily Kung** '26 (STRIDE 2022-2024, SURF 2023)  
 Emily aims toward pursuing computer science and fine arts. Her favorite hobby includes watching anime, reading manga, and playing video games.
 </div>
 
@@ -174,8 +174,32 @@ Bobi is a Computer Science major from San Diego, California. Outside of the lab,
 <img src="/images/annie.jpg"
      alt="Annie Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023)  
+**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023)  
 Annie is a double major in Computer Science and Mathematical Statistics from Burundi. She enjoys dancing, reading and hanging out with friends when she is not in class.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/karenna.png"
+     alt="Karenna Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Karenna Kung** 25 (SURF 2023)  
+Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/site-logo.png"
+     alt="Emma Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Emma Ruckle** 25 (SURF 2023)  
+Emma is a Computer Science major and a Statistical and Data Sciences minor from Rye, New Hampshire. Outside of academics, she enjoys crochet, reading and sharks.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/site-logo.png"
+     alt="Caroline Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Caroline Zouloumian** 25 (SURF 2023)  
+Caroline is a Computer Science major from Nay, France. Outside of the lab she enjoys taking pictures, going for walks, playing music and traveling.
 </div>
 
 <!--
