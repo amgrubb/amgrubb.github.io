@@ -238,13 +238,11 @@ Manar Alnazer '24 (SURF 2021)
 
 ## How to Join
 
-_Spring 2023: Our lab is currently at capacity._
-
 We are seeking new lab members interested in both software development and
 requirements research. There are different ways to conduct research in the Grubb
 Lab (e.g., volunteer, special studies, SURF, STRIDE, AEMES, or a senior honors thesis
 project). Those interested in development or software engineering research
-should have completed or be currently enrolled in CSC212. Ideally, students
+should have completed or be currently enrolled in CSC212/210. Ideally, students
 interested in pursuing a Senior Honors Thesis should contact Alicia in their
 junior year. Interested? Contact [Alicia](amgrubb@smith.edu). Not sure what to
 say? Review the “Recommendations for Emailing Professors” [on the Research at
@@ -253,8 +251,8 @@ what it’s like? Reach out to one of our current or past members.
 
 ## SURF
 Each summer I accept 5-8 students interested in software development and/or empirical research (i.e., Software Engineering). 
-For summer 2023, I will be accepting 2-4 new students. 
-Please email amgrubb@smith.edu with your resume, _unofficial_ transcript, and a writing sample to apply.
+<!-- For summer 2023, I will be accepting 2-4 new students. 
+Please email amgrubb@smith.edu with your resume, _unofficial_ transcript, and a writing sample to apply. -->
 
 We usually have at least one development project ongoing using our tool [BloomingLeaf](http://www.cs.toronto.edu/~amgrubb/dev/blooming/) and this summer is no exception. We seek the help of enthusiastic students with strong programming skills and an exposure to web development (javaScript), who have excellent communication skills (written/verbal English) and an ability to work independently and collaboratively. Our [online codebase](https://github.com/amgrubb/BloomingLeaf) will help you create a portfolio for future applications to employers and graduate schools. In prior development projects, we worked on [refactoring our code base](https://amgrubb.github.io/posts/2021-04-01-restructuring) to enable new model management features and [restructured the code base](https://amgrubb.github.io/posts/2021-08-13-backbone-refactor) to take advantage of underlying libraries. Our next step is to continue to implement new visualizations and a goal modeling workflow.
 
