@@ -195,7 +195,7 @@ Emma is a Computer Science major and a Statistical and Data Sciences minor from 
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/site-logo.png"
+<img src="/images/caroline.jpg"
      alt="Caroline Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Caroline Zouloumian** 25 (SURF 2023)  
@@ -230,11 +230,10 @@ Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)
 <!-- Catherine Mary Brown Spencer-->Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
 Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)  
 Kathleen Hablutzel '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall 2022)    
-Angela Chu '23 (SURF 2021)  <!-- Did not graduate. -->  
-Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
+<!-- Zihan Diao -->Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
 Manar Alnazer '24 (SURF 2021)  
-
+Angela Chu (SURF 2021)  <!-- Did not graduate. -->   
 
 ## How to Join
 
