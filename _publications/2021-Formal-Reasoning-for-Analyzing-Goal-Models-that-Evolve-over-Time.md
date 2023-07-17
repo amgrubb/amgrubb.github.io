@@ -3,7 +3,7 @@ title: "Formal Reasoning for Analyzing Goal Models that Evolve over Time"
 collection: publications
 permalink: /publication/2021-Formal-Reasoning-for-Analyzing-Goal-Models-that-Evolve-over-Time
 excerpt: Alicia M. Grubb, Marsha Chechik
-date: 2021-05-01
+date: 2021-01-01
 venue: 'Requirements Engineering'
 citation: ' Alicia M. Grubb,  Marsha Chechik, "Formal Reasoning for Analyzing Goal Models that Evolve over Time." Requirements Engineering, 2021.'
 layout: archive
