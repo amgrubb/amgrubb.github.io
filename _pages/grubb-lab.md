@@ -141,7 +141,7 @@ Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)
 Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)  
 Venus Nguyen '25 (AEMES 2021-2023, SURF 2022)  
 Emma Ruckle 25 (SURF 2023)  
-Emily Kung '26 (STRIDE 2022-2024, SURF 2023)  
+Emily Kung '26 (STRIDE 2022-2023, SURF 2023)  
 Angela Chu (SURF 2021)  <!-- Did not graduate. -->   
 
 ## How to Join
@@ -181,7 +181,7 @@ _Note: The last page of the application, asks for a title and brief description 
 <img src="/images/emily.jpeg"
      alt="Emily Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Emily Kung** '26 (STRIDE 2022-2024, SURF 2023)  
+**Emily Kung** '26 (STRIDE 2022-2023, SURF 2023)  
 Emily aims toward pursuing computer science and fine arts. Her favorite hobby includes watching anime, reading manga, and playing video games.
 </div>
 
