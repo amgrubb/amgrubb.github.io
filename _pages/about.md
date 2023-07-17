@@ -23,7 +23,7 @@ and my Bacholors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-*On sabbatical July 2022-June 2023. Email for an appointment.*
+Fall 2023: T.B.A. - Email for an appointment.
 <!--
 Spring 2022: In-person on Wednesday 6-7pm in Ford Hall 355. Online (Zoom) during times listed in my [appointment calendar](https://tinyurl.com/grubb-app).  
 Appointments: [https://tinyurl.com/grubb-app](https://tinyurl.com/grubb-app)
@@ -43,6 +43,7 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 * CSC 111: [Introduction to Computer Science Through Programming](https://amgrubb.github.io/csc111) - S19, S20, S21, S22
 * CSC 223: [Introduction to Software Engineering](files/CSC223F19.pdf) - F19
 * CSC 231: Microprocessors and Assembly Language - F20
+* CSC 252: Algorithms - F23
 * CSC 325: [Seminar: Responsible Computing](files/CSC325F19.pdf) - [F19, F20](https://doi.org/10.35482/csc.002.2021), F21
 
 ### Additional Information and Links

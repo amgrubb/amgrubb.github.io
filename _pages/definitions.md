@@ -15,7 +15,7 @@ The goal of this page is to demistify the research that the lab is conducting, a
      style="display:block; margin-left: auto; margin-right: auto; width: 50%;" /> 
 </div>
 
-**Goal Models** are diagrams like the one shown above that are used to understand the goals and evoloutions of goals of stakeholders.
+**Goal Models** are diagrams like the one shown above that are used to understand the goals and evolutions of goals of stakeholders.
 
 **Intentions** are the nodes or elements in a goal model such as Have Lunch in the example. There are four types of intentions in TROPOS (the modeling language we use), goals, soft goals(not shown), tasks, and resources.
 
@@ -23,9 +23,9 @@ The goal of this page is to demistify the research that the lab is conducting, a
 
 **Actors** are used to group together a network of intentions. In the above example Student and College are actors
 
-**Evidence Pairs** are the basis for evaluating the satisfaction of goal models. They consist of evidence for the satsfaction of intentions, as well as evidence against satisfaction of an intention. This provides an interesting possibility for evidence for satsfaction as well as evidence against, creating a conflict.
+**Evidence Pairs** are the basis for evaluating the satisfaction of goal models. They consist of evidence for the satisfaction of intentions, as well as evidence against satisfaction of an intention. This provides an interesting possibility for evidence for satisfaction as well as evidence against, creating a conflict.
 
-**Functions** can be assinged to intentions to dictate how its evidence pairs evolve over time after a single path has been simulated.
+**Functions** can be assigned to intentions to dictate how its evidence pairs evolve over time after a single path has been simulated.
 
 **TROPOS**
 
