@@ -52,7 +52,7 @@ Cyrine is an Engineering Science major and a Computer Science minor from Tunis, 
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/xinran.jpeg"
+<img src="/images/xinran.jpg"
      alt="Xinran Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Xinran Bi** '25J (SURF 2022, Special Studies 2022-23, SURF 2023)  
