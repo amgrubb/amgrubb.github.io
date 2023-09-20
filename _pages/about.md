@@ -23,12 +23,11 @@ and my Bacholors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-Fall 2023: T.B.A.   
+* Mondays 15:00 - 15:45
+* Tuesdays 12:00 - 13:00
+* Fridays 14:45 - 15:15
 
-* Sep. 13 11:00 - 12:00
-* Sep. 15 15:00 - 16:00
-
-Check back for updated times.
+_Appointments available upon request._
 
 <!--
 Spring 2022: In-person on Wednesday 6-7pm in Ford Hall 355. Online (Zoom) during times listed in my [appointment calendar](https://tinyurl.com/grubb-app).  
