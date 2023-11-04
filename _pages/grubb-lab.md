@@ -48,8 +48,8 @@ College's Paradise Pond.
      alt="Yesugen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
-Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
-Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
+Yesugen completed majors in Computer Science and Data Science and is currently applying to PhD programs. She is originally from Ulaanbaatar, Mongolia. 
+Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.  
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -166,7 +166,7 @@ say? Review the “Recommendations for Emailing Professors” [on the Research a
 Smith page](https://www.smith.edu/academics/research-at-smith). Want to know
 what it’s like? Reach out to one of our current or past members.
 
-## SURF
+## SURF 2024
 
 Each summer the Grubb lab accepts 5-8 students interested in software development and/or empirical research (i.e., software engineering).  
 
