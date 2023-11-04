@@ -44,6 +44,15 @@ College's Paradise Pond.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/Yesugen.jpg"
+     alt="Yesugen Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
+Yesugen is a Computer Science major from Ulaanbaatar, Mongolia. 
+Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/cyrine.jpg"
      alt="Cyrine Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
@@ -128,7 +137,7 @@ Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)
 <!-- Catherine Mary Brown Spencer-->Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
 Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)  
 Kathleen Hablutzel '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall 2022)    
-Yesugen Baatartogtokh ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23)  
+<!-- Yesugen Baatartogtokh ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23)  -->
 <!-- Zihan Diao -->Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Irene Foster '23 (SURF 2021, NSF Funded 2021-2022, SURF 2022, NSF Funded 2022-2023)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
@@ -158,9 +167,19 @@ Smith page](https://www.smith.edu/academics/research-at-smith). Want to know
 what it’s like? Reach out to one of our current or past members.
 
 ## SURF
-Each summer I accept 5-8 students interested in software development and/or empirical research (i.e., Software Engineering). 
-<!-- For summer 2023, I will be accepting 2-4 new students. 
-Please email amgrubb@smith.edu with your resume, _unofficial_ transcript, and a writing sample to apply. -->
+
+Each summer the Grubb lab accepts 5-8 students interested in software development and/or empirical research (i.e., software engineering).  
+
+We are developing a framework to integrate requirements techniques with development activities (e.g., coding, testing). By linking requirements with the documentation of development activities, we hope to make it easier for programmers to engage with the requirements for their project. We are investigating how to model artifacts in a GitLab repository. Our initial proof-of-concept was [designed by past SURF students](https://amgrubb.github.io/posts/2022-08-03-gitre) in the lab. In summer 2024, we will continue to investigate using natural language processing and artificial intelligence techniques to create traceability links between requirement and development artifacts. We will extend GitLab with these links and create new user interfaces to explore these techniques.   
+
+We are finalizing our goal modeling tool, called [BloomingLeaf](http://www.cs.toronto.edu/~amgrubb/dev/blooming/). In prior development projects, we [refactored our code base](https://amgrubb.github.io/posts/2021-04-01-restructuring) to enable new model management features, [restructured the code base](https://amgrubb.github.io/posts/2021-08-13-backbone-refactor) to take advantage of underlying libraries, added [model merging](https://amgrubb.github.io/posts/2023-07-07-merge-interface) and automatic layout, and added [presence conditions](https://amgrubb.github.io/posts/2023-07-07-presence-interface). This summer we will improve and finalize our user-centered methodology and its implementation in BloomingLeaf.   
+
+For both projects, the Grubb lab welcomes the insights of enthusiastic students interested in research, who have excellent communication skills (written/verbal English), strong programming skills, and an ability to work independently and collaboratively. Our [online codebase](https://github.com/amgrubb/BloomingLeaf) will help you create a portfolio for future applications to employers and graduate schools. 
+ 
+
+<!-- Each summer I accept 5-8 students interested in software development and/or empirical research (i.e., Software Engineering). 
+For summer 2023, I will be accepting 2-4 new students. 
+Please email amgrubb@smith.edu with your resume, _unofficial_ transcript, and a writing sample to apply. 
 
 We usually have at least one development project ongoing using our tool [BloomingLeaf](http://www.cs.toronto.edu/~amgrubb/dev/blooming/) and this summer is no exception. We seek the help of enthusiastic students with strong programming skills and an exposure to web development (javaScript), who have excellent communication skills (written/verbal English) and an ability to work independently and collaboratively. Our [online codebase](https://github.com/amgrubb/BloomingLeaf) will help you create a portfolio for future applications to employers and graduate schools. In prior development projects, we worked on [refactoring our code base](https://amgrubb.github.io/posts/2021-04-01-restructuring) to enable new model management features and [restructured the code base](https://amgrubb.github.io/posts/2021-08-13-backbone-refactor) to take advantage of underlying libraries. Our next step is to continue to implement new visualizations and a goal modeling workflow.
 
@@ -168,7 +187,6 @@ For those more interested in empirical software engineering research, we are cur
 Additionally, we are investigating how to model artifacts in a GitHub repository. These are evolving projects and we welcome the insights of enthusiastic students interested in research, who have excellent communication skills (written/verbal English) and an ability to work independently and collaboratively. 
 Students with an interest in research and/or an interest in quantitative (e.g., spreadsheets, r, statistics) or qualitative (e.g., open coding, ethnography) data analysis should state this on their application.
 
-<!--
 _Note: The last page of the application, asks for a title and brief description of the project. This field is not used in computer science. Please enter a short description from any of [my labs project](https://amgrubb.github.io/projects/)_
 --> 
 
