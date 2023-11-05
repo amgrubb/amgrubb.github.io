@@ -44,10 +44,10 @@ College's Paradise Pond.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/Yesugen.jpg"
+<img src="/images/Yesugen.png"
      alt="Yesugen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Yesugen Baatartogtokh** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
+**[Yesugen Baatartogtokh](https://yesugenb.github.io/)** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
 Yesugen completed majors in Computer Science and Data Science and is currently applying to PhD programs. She is originally from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.  
 </div>
