@@ -19,13 +19,12 @@ __**SURF 2023**__ I'm hiring *new* SURF students this summer. Please email amgru
 
 I am an Assistant Professor in the Department of [Computer Science](http://cs.smith.edu/) at [Smith College](www.smith.edu). 
 I completed my Doctorate and Masters at the University of Toronto in Computer Science, 
-and my Bacholors at the University of Waterloo in Software Engineering.
+and my Bachelors at the University of Waterloo in Software Engineering.
 
-### Student Hours
+### Student Hours (Sprint 2024 - Tentative)
 
-* Mondays 15:00 - 15:45
-* Tuesdays 12:00 - 13:00
-* Fridays 14:45 - 15:15
+* Mondays 11:00 - 12:00
+* Wednesdays 16:00 - 17:00
 
 _Appointments available upon request._
 
@@ -45,7 +44,7 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 
 ### Teaching 
 
-* CSC 111: [Introduction to Computer Science Through Programming](https://amgrubb.github.io/csc111) - S19, S20, S21, S22
+* CSC 111: [Introduction to Computer Science Through Programming](https://amgrubb.github.io/csc111) - S19, S20, S21, S22, S24
 * CSC 223: [Introduction to Software Engineering](files/CSC223F19.pdf) - F19
 * CSC 231: Microprocessors and Assembly Language - F20
 * CSC 252: Algorithms - F23

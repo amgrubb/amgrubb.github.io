@@ -56,16 +56,8 @@ Outside of academics, she enjoys being outdoors, cuddling with her cat, reading,
 <img src="/images/cyrine.jpg"
      alt="Cyrine Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Cyrine Ben Ayed** '24 (Volunteer Spring 2022, NSF Funded Fall 2022)  
+**Cyrine Ben Ayed** '24 (Volunteer Spring 2022, NSF Funded Fall 2022, Special Studies Spring 2024)  
 Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/xinran.jpg"
-     alt="Xinran Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Xinran Bi** '25J (SURF 2022, Special Studies 2022-23, SURF 2023)  
-Xinran is a Computer Science and Mathematical Statistics double major from Shanghai, China. Outside of academics, she enjoys singing in different languages, binge-watching anime, and cooking.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -76,20 +68,11 @@ Xinran is a Computer Science and Mathematical Statistics double major from Shang
 Molly is a computer science major from Evanston, Illinois. She joined the lab in September 2022. Outside of academics, she enjoys playing hockey and video games.
 </div>
 
-<div style = "height: 250px; margin: 25px; " markdown = "1">
-<img src="/images/megan.JPG"
-     alt="Megan HeadShot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Megan Varnum** '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Studies Spring 2023)  
-Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
-She is pursuing a double major in Computer Science and Mathematical Statistics. Outside of academics, Megan competes on the varsity Smith College track and cross country team.
-</div>
-
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/annie.jpg"
      alt="Annie Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023)  
+**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded Fall 2023)  
 Annie is a double major in Computer Science and Mathematical Statistics from Burundi. She enjoys dancing, reading and hanging out with friends when she is not in class.
 </div>
 
@@ -97,7 +80,7 @@ Annie is a double major in Computer Science and Mathematical Statistics from Bur
 <img src="/images/karenna.png"
      alt="Karenna Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Karenna Kung** 25 (SURF 2023)  
+**Karenna Kung** 25 (SURF 2023, NSF Funded 2023-2024)  
 Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
 </div>
 
@@ -105,7 +88,7 @@ Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Da
 <img src="/images/caroline.jpg"
      alt="Caroline Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Caroline Zouloumian** 25 (SURF 2023)  
+**Caroline Zouloumian** 25 (SURF 2023, NSF Funded 2023-2024)    
 Caroline is a Computer Science major from Nay, France. Outside of the lab she enjoys taking pictures, going for walks, playing music and traveling.
 </div>
 
@@ -141,10 +124,15 @@ Kathleen Hablutzel '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall
 <!-- Zihan Diao -->Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Irene Foster '23 (SURF 2021, NSF Funded 2021-2022, SURF 2022, NSF Funded 2022-2023)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
-Sasha Yeutseyeva '23 (Senior Honors Thesis 2022-23)  
+Sasha Yeutseyeva '23 (Senior Honors Thesis 2022-23) 
+<!-- Confirmed Graduate Students Above --> 
+Xinran Bi '24J (SURF 2022, Special Studies 2022-23, SURF 2023)  
 Manar Alnazer '24 (SURF 2021)  
 Bobi Arce Mack '24 (Volunteer Fall 2022, NSF Funded Spring 2023)  
 Thu Tran '24 (Volunteer Spring 2022, NSF Funded 2022-2023)  
+Megan Varnum** '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Studies Spring 2023)
+Cameron Darling '25 (Volunteer Fall 2023)    
+Christine Dong '25 (Volunteer Fall 2023)   
 Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)  
 Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)  
 Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)  
@@ -195,6 +183,27 @@ _Note: The last page of the application, asks for a title and brief description 
      />
 
 <!-- PAST LAB MEMBER PROFILES
+
+<div style = "height: 250px; margin: 25px; " markdown = "1">
+<img src="/images/megan.JPG"
+     alt="Megan HeadShot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Megan Varnum** '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Studies Spring 2023)  
+Megan is from Eastern Washington and joined the lab as a STRIDE student in September 2019. 
+She is pursuing a double major in Computer Science and Mathematical Statistics. Outside of academics, Megan competes on the varsity Smith College track and cross country team.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/xinran.jpg"
+     alt="Xinran Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Xinran Bi** '25J (SURF 2022, Special Studies 2022-23, SURF 2023)  
+Xinran is a Computer Science and Mathematical Statistics double major from Shanghai, China. Outside of academics, she enjoys singing in different languages, binge-watching anime, and cooking.
+</div>
+
+
+
+
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/emily.jpeg"
      alt="Emily Headshot"
