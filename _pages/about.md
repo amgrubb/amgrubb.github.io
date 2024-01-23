@@ -21,7 +21,7 @@ I am an Assistant Professor in the Department of [Computer Science](http://cs.sm
 I completed my Doctorate and Masters at the University of Toronto in Computer Science, 
 and my Bachelors at the University of Waterloo in Software Engineering.
 
-### Student Hours (Sprint 2024 - Tentative)
+### Student Hours (Spring 2024 - Tentative)
 
 * Mondays 11:00 - 12:00
 * Wednesdays 16:00 - 17:00
