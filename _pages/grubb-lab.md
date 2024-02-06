@@ -47,7 +47,7 @@ College's Paradise Pond.
 <img src="/images/Yesugen.png"
      alt="Yesugen Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**[Yesugen Baatartogtokh](https://yesugenb.github.io/)** ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
+**[Yesugen Baatartogtokh](https://yesugenb.github.io/)** '23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
 Yesugen completed majors in Computer Science and Data Science and is currently applying to PhD programs. She is originally from Ulaanbaatar, Mongolia. 
 Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.  
 </div>
@@ -80,7 +80,7 @@ Annie is a double major in Computer Science and Mathematical Statistics from Bur
 <img src="/images/karenna.png"
      alt="Karenna Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Karenna Kung** 25 (SURF 2023, NSF Funded 2023-2024)  
+**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024)  
 Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
 </div>
 
@@ -88,8 +88,16 @@ Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Da
 <img src="/images/caroline.jpg"
      alt="Caroline Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Caroline Zouloumian** 25 (SURF 2023, NSF Funded 2023-2024)    
+**Caroline Zouloumian** '25 (SURF 2023, NSF Funded 2023-2024)    
 Caroline is a Computer Science major from Nay, France. Outside of the lab she enjoys taking pictures, going for walks, playing music and traveling.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/aline.jpg"
+     alt="Aline Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Aline Marra** '24 (NSF Funded Spring 2024)  
+Aline is a Computer Science major and Mathematical Sciences minor from Maryland. She enjoys hiking with her dogs, reading, and puzzles.  
 </div>
 
 <!--
