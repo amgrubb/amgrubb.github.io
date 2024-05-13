@@ -72,7 +72,7 @@ Molly is a computer science major from Evanston, Illinois. She joined the lab in
 <img src="/images/annie.jpg"
      alt="Annie Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded Fall 2023)  
+**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded 2023-2024)  
 Annie is a double major in Computer Science and Mathematical Statistics from Burundi. She enjoys dancing, reading and hanging out with friends when she is not in class.
 </div>
 
@@ -96,8 +96,24 @@ Caroline is a Computer Science major from Nay, France. Outside of the lab she en
 <img src="/images/aline.jpg"
      alt="Aline Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Aline Marra** '24 (NSF Funded Spring 2024)  
+**Aline Marra** '24 (NSF Funded Spring 2024, SURF 2024)  
 Aline is a Computer Science major and Mathematical Sciences minor from Maryland. She enjoys hiking with her dogs, reading, and puzzles.  
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/sydney.jpeg"
+     alt="Sydney Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Sydney Weisberg** '26 (SURF 2024)  
+Sydney is a computer science major from Los Angeles, California. She enjoys crochet, performing arts, and games outside of the lab.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/favicon.png"
+     alt="Logo"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Kika Kovaleski** '25 (SURF 2024)  
+Kika is a computer science and history double major from Brooklyn, New York. Outside of academics, she enjoys going for walks, doing crosswords, and spending time with her dog.
 </div>
 
 <!--
