@@ -149,12 +149,12 @@ Kathleen Hablutzel '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall
 Irene Foster '23 (SURF 2021, NSF Funded 2021-2022, SURF 2022, NSF Funded 2022-2023)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
 Sasha Yeutseyeva '23 (Senior Honors Thesis 2022-23)   
-<!-- Confirmed Graduate Students Above --> 
 Xinran Bi '24J (SURF 2022, Special Studies 2022-23, SURF 2023)  
 Manar Alnazer '24 (SURF 2021)  
 Bobi Arce Mack '24 (Volunteer Fall 2022, NSF Funded Spring 2023)  
 Thu Tran '24 (Volunteer Spring 2022, NSF Funded 2022-2023)  
 Megan Varnum '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Studies Spring 2023)  
+<!-- Confirmed Graduate Students Above --> 
 Cameron Darling '25 (Volunteer Fall 2023)    
 Christine Dong '25 (Volunteer Fall 2023)   
 Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)  
