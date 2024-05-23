@@ -171,14 +171,14 @@ We are seeking new lab members interested in both software development and
 requirements research. There are different ways to conduct research in the Grubb
 Lab (e.g., volunteer, special studies, SURF, STRIDE, AEMES, or a senior honors thesis
 project). Those interested in development or software engineering research
-should have completed or be currently enrolled in CSC212/210. Ideally, students
+should have completed or be currently enrolled in CSC210. Ideally, students
 interested in pursuing a Senior Honors Thesis should contact Alicia in their
 junior year. Interested? Contact [Alicia](amgrubb@smith.edu). Not sure what to
 say? Review the “Recommendations for Emailing Professors” [on the Research at
 Smith page](https://www.smith.edu/academics/research-at-smith). Want to know
 what it’s like? Reach out to one of our current or past members.
 
-## SURF 2024
+<!-- ## SURF 2024
 
 Each summer the Grubb lab accepts 5-8 students interested in software development and/or empirical research (i.e., software engineering).  
 
@@ -187,7 +187,7 @@ We are developing a framework to integrate requirements techniques with developm
 We are finalizing our goal modeling tool, called [BloomingLeaf](http://www.cs.toronto.edu/~amgrubb/dev/blooming/). In prior development projects, we [refactored our code base](https://amgrubb.github.io/posts/2021-04-01-restructuring) to enable new model management features, [restructured the code base](https://amgrubb.github.io/posts/2021-08-13-backbone-refactor) to take advantage of underlying libraries, added [model merging](https://amgrubb.github.io/posts/2023-07-07-merge-interface) and automatic layout, and added [presence conditions](https://amgrubb.github.io/posts/2023-07-07-presence-interface). This summer we will improve and finalize our user-centered methodology and its implementation in BloomingLeaf.   
 
 For both projects, the Grubb lab welcomes the insights of enthusiastic students interested in research, who have excellent communication skills (written/verbal English), strong programming skills, and an ability to work independently and collaboratively. Our [online codebase](https://github.com/amgrubb/BloomingLeaf) will help you create a portfolio for future applications to employers and graduate schools. 
- 
+--> 
 
 <!-- Each summer I accept 5-8 students interested in software development and/or empirical research (i.e., Software Engineering). 
 For summer 2023, I will be accepting 2-4 new students. 
