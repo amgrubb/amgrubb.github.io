@@ -17,7 +17,7 @@ __**SURF 2023**__ I'm hiring *new* SURF students this summer. Please email amgru
 
 ### Intro
 
-I am an Assistant Professor in the Department of [Computer Science](http://cs.smith.edu/) at [Smith College](www.smith.edu). 
+I am an Associate Professor in the Department of [Computer Science](http://cs.smith.edu/) at [Smith College](www.smith.edu). 
 I completed my Doctorate and Masters at the University of Toronto in Computer Science, 
 and my Bachelors at the University of Waterloo in Software Engineering.
 
