@@ -60,7 +60,7 @@ Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Da
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/sonora.jpeg"
+<img src="/images/sonora.jpg"
      alt="Sonora Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Sonora Halili** '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023, Senior Honors Thesis 2024-25)  
