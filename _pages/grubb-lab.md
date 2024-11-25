@@ -155,7 +155,7 @@ Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)
 <!--Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)  -->
 Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)  
 Venus Nguyen '25 (AEMES 2021-2023, SURF 2022)  
-Emma Ruckle '25 (SURF 2023) 
+Emma Ruckle '25 (SURF 2023)   
 Caroline Zouloumian '25 (SURF 2023, NSF Funded 2023-2024)   
 Emily Kung '26 (STRIDE 2022-2023, SURF 2023)  
 Angela Chu (SURF 2021)  <!-- Did not graduate. -->   
