@@ -84,7 +84,7 @@ Kika is a computer science and history double major from Brooklyn, New York. Out
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpg"
+<img src="/images/name.jpeg"
      alt="Milka Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Milka Carbonell Matos** '28 (STRIDE 2024-2026)  
