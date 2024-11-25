@@ -84,7 +84,7 @@ Kika is a computer science and history double major from Brooklyn, New York. Out
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpeg"
+<img src="/images/milka.jpeg"
      alt="Milka Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Milka Carbonell Matos** '28 (STRIDE 2024-2026)  
@@ -92,7 +92,7 @@ Milka is an intended computer science major from San Juan, Puerto Rico. Outside 
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpg"
+<img src="/images/vivian.jpg"
      alt="Vivian Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Vivian Myers** '28 (STRIDE 2024-2026)  
@@ -100,7 +100,7 @@ Vivian is a computer science major from Cleveland, Ohio. She enjoys listening to
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/name.jpg"
+<img src="/images/moya.jpg"
      alt="Moya Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Moya Zouhon** '28 (AEMES 2024-2026)  
