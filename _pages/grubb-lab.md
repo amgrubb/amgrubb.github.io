@@ -44,67 +44,34 @@ College's Paradise Pond.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/Yesugen.png"
-     alt="Yesugen Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**[Yesugen Baatartogtokh](https://yesugenb.github.io/)** '23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
-Yesugen completed majors in Computer Science and Data Science and is currently applying to PhD programs. She is originally from Ulaanbaatar, Mongolia. 
-Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.  
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/cyrine.jpg"
-     alt="Cyrine Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Cyrine Ben Ayed** '24 (Volunteer Spring 2022, NSF Funded Fall 2022, Special Studies Spring 2024)  
-Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/molly.jpeg"
      alt="Molly Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Molly Daniel** '26 (STRIDE 2022-2024, SURF 2023)  
+**Molly Daniel** '26 (STRIDE 2022-2024, SURF 2023, NSF Funded 2024-2025)  
 Molly is a computer science major from Evanston, Illinois. She joined the lab in September 2022. Outside of academics, she enjoys playing hockey and video games.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/annie.jpg"
-     alt="Annie Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded 2023-2024)  
-Annie is a double major in Computer Science and Mathematical Statistics from Burundi. She enjoys dancing, reading and hanging out with friends when she is not in class.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/karenna.png"
      alt="Karenna Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024)  
+**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25)  
 Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/caroline.jpg"
-     alt="Caroline Headshot"
+<img src="/images/sonora.jpeg"
+     alt="Sonora Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Caroline Zouloumian** '25 (SURF 2023, NSF Funded 2023-2024)    
-Caroline is a Computer Science major from Nay, France. Outside of the lab she enjoys taking pictures, going for walks, playing music and traveling.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/aline.jpg"
-     alt="Aline Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Aline Marra** '24 (NSF Funded Spring 2024, SURF 2024)  
-Aline is a Computer Science major and Mathematical Sciences minor from Maryland. She enjoys hiking with her dogs, reading, and puzzles.  
+**Sonora Halili** '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023, Senior Honors Thesis 2024-25)  
+Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/sydney.jpeg"
      alt="Sydney Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Sydney Weisberg** '26 (SURF 2024)  
+**Sydney Weisberg** '26 (SURF 2024, NSF Funded 2024-2025)  
 Sydney is a computer science major from Los Angeles, California. She enjoys crochet, performing arts, and games outside of the lab.
 </div>
 
@@ -112,8 +79,32 @@ Sydney is a computer science major from Los Angeles, California. She enjoys croc
 <img src="/images/favicon.png"
      alt="Logo"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Kika Kovaleski** '25 (SURF 2024)  
+**Kika Kovaleski** '25 (SURF 2024, NSF Funded 2024-2025)  
 Kika is a computer science and history double major from Brooklyn, New York. Outside of academics, she enjoys going for walks, doing crosswords, and spending time with her dog.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/name.jpg"
+     alt="Milka Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Milka Carbonell Matos** '28 (STRIDE 2024-2026)  
+Milka is an intended computer science major from San Juan, Puerto Rico. Outside of the lab she enjoys singing, poetry, music and cooking.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/name.jpg"
+     alt="Vivian Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Vivian Myers** '28 (STRIDE 2024-2026)  
+Vivian is a computer science major from Cleveland, Ohio. She enjoys listening to music, spending time with her cat, gardening, and playing badminton.  
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/name.jpg"
+     alt="Moya Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Moya Zouhon** '28 (AEMES 2024-2026)  
+Moya plans to double major in computer science and data science. Moya enjoys running, biking, or learning guitar. 
 </div>
 
 <!--
@@ -144,7 +135,7 @@ Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)
 <!-- Catherine Mary Brown Spencer-->Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
 Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)  
 Kathleen Hablutzel '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall 2022)    
-<!-- Yesugen Baatartogtokh ’23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23)  -->
+[Yesugen Baatartogtokh](https://yesugenb.github.io/) '23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
 <!-- Zihan Diao -->Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Irene Foster '23 (SURF 2021, NSF Funded 2021-2022, SURF 2022, NSF Funded 2022-2023)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
@@ -152,16 +143,20 @@ Sasha Yeutseyeva '23 (Senior Honors Thesis 2022-23)
 Xinran Bi '24J (SURF 2022, Special Studies 2022-23, SURF 2023)  
 Manar Alnazer '24 (SURF 2021)  
 Bobi Arce Mack '24 (Volunteer Fall 2022, NSF Funded Spring 2023)  
+Cyrine Ben Ayed '24 (Volunteer Spring 2022, NSF Funded Fall 2022, Special Studies Spring 2024)  
+Aline Marra '24 (NSF Funded Spring 2024, SURF 2024)   
 Thu Tran '24 (Volunteer Spring 2022, NSF Funded 2022-2023)  
 Megan Varnum '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Studies Spring 2023)  
 <!-- Confirmed Graduate Students Above --> 
-Cameron Darling '25 (Volunteer Fall 2023)    
-Christine Dong '25 (Volunteer Fall 2023)   
+Annie Karitonze '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded 2023-2024)  
+Cameron Darling '25 (Volunteer Fall 2023)     
+Christine Dong '25 (Volunteer Fall 2023)    
 Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)  
-Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)  
+<!--Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)  -->
 Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)  
 Venus Nguyen '25 (AEMES 2021-2023, SURF 2022)  
-Emma Ruckle '25 (SURF 2023)  
+Emma Ruckle '25 (SURF 2023) 
+Caroline Zouloumian '25 (SURF 2023, NSF Funded 2023-2024)   
 Emily Kung '26 (STRIDE 2022-2023, SURF 2023)  
 Angela Chu (SURF 2021)  <!-- Did not graduate. -->   
 
@@ -208,6 +203,49 @@ _Note: The last page of the application, asks for a title and brief description 
 
 <!-- PAST LAB MEMBER PROFILES
 
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/Yesugen.png"
+     alt="Yesugen Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**[Yesugen Baatartogtokh](https://yesugenb.github.io/)** '23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
+Yesugen completed majors in Computer Science and Data Science and is currently applying to PhD programs. She is originally from Ulaanbaatar, Mongolia. 
+Outside of academics, she enjoys being outdoors, cuddling with her cat, reading, and creative writing.  
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/cyrine.jpg"
+     alt="Cyrine Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Cyrine Ben Ayed** '24 (Volunteer Spring 2022, NSF Funded Fall 2022, Special Studies Spring 2024)  
+Cyrine is an Engineering Science major and a Computer Science minor from Tunis, Tunisia. Outside of the lab, she can be found practicing with the Squash team, dancing, or drawing.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/annie.jpg"
+     alt="Annie Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Annie Karitonze** '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded 2023-2024)  
+Annie is a double major in Computer Science and Mathematical Statistics from Burundi. She enjoys dancing, reading and hanging out with friends when she is not in class.
+</div>
+
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/caroline.jpg"
+     alt="Caroline Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Caroline Zouloumian** '25 (SURF 2023, NSF Funded 2023-2024)    
+Caroline is a Computer Science major from Nay, France. Outside of the lab she enjoys taking pictures, going for walks, playing music and traveling.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/aline.jpg"
+     alt="Aline Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Aline Marra** '24 (NSF Funded Spring 2024, SURF 2024)  
+Aline is a Computer Science major and Mathematical Sciences minor from Maryland. She enjoys hiking with her dogs, reading, and puzzles.  
+</div>
+
+
 <div style = "height: 250px; margin: 25px; " markdown = "1">
 <img src="/images/megan.JPG"
      alt="Megan HeadShot"
@@ -249,13 +287,7 @@ Bobi is a Computer Science major from San Diego, California. Outside of the lab,
 Emma is a Computer Science major and a Statistical and Data Sciences minor from Rye, New Hampshire. Outside of academics, she enjoys crochet, reading and sharks.
 </div>
 
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/sonora.jpeg"
-     alt="Sonora Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Sonora Halili** '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)  
-Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
-</div>
+
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/joey.jpeg"
