@@ -41,7 +41,7 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 
 ### Teaching 
 
-* CSC 110: Introduction to Computer Science - S24
+* CSC 110: Introduction to Computer Science - S24, S25
 * CSC 111: [Introduction to Computer Science Through Programming](https://amgrubb.github.io/csc111) - S19, S20, S21, S22
 * CSC 223: [Introduction to Software Engineering](files/CSC223F19.pdf) - F19
 * CSC 231: Microprocessors and Assembly Language - F20
