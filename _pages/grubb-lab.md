@@ -55,7 +55,7 @@ Molly is a computer science major from Evanston, Illinois. She joined the lab in
 <img src="/images/karenna.png"
      alt="Karenna Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25)  
+**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25, SURF 2025)  
 Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
 </div>
 
@@ -79,7 +79,7 @@ Sydney is a computer science major from Los Angeles, California. She enjoys croc
 <img src="/images/favicon.png"
      alt="Logo"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Kika Kovaleski** '25 (SURF 2024, NSF Funded 2024-2025)  
+**Kika Kovaleski** '25 (SURF 2024, NSF Funded 2024-2025, SURF 2025)  
 Kika is a computer science and history double major from Brooklyn, New York. Outside of academics, she enjoys going for walks, doing crosswords, and spending time with her dog.
 </div>
 
@@ -95,7 +95,7 @@ Milka is an intended computer science major from San Juan, Puerto Rico. Outside 
 <img src="/images/vivian.jpg"
      alt="Vivian Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Vivian Myers** '28 (STRIDE 2024-2026)  
+**Vivian Myers** '28 (STRIDE 2024-2026, SURF 2025)  
 Vivian is a computer science major from Cleveland, Ohio. She enjoys listening to music, spending time with her cat, gardening, and playing badminton.  
 </div>
 
@@ -105,6 +105,13 @@ Vivian is a computer science major from Cleveland, Ohio. She enjoys listening to
      style="float: right; height: 200px; padding-left: 30px;" />
 **Moya Zouhon** '28 (AEMES 2024-2026)  
 Moya plans to double major in computer science and data science. Moya enjoys running, biking, or learning guitar. 
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/favicon.png"
+     alt="Logo"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Jessica Klurfeld '26 (Special Studies Spring 2025, SURF 2025)**  
 </div>
 
 <!--
@@ -147,7 +154,6 @@ Cyrine Ben Ayed '24 (Volunteer Spring 2022, NSF Funded Fall 2022, Special Studie
 Aline Marra '24 (NSF Funded Spring 2024, SURF 2024)   
 Thu Tran '24 (Volunteer Spring 2022, NSF Funded 2022-2023)  
 Megan Varnum '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Studies Spring 2023)  
-<!-- Confirmed Graduate Students Above --> 
 Annie Karitonze '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded 2023-2024)  
 Cameron Darling '25 (Volunteer Fall 2023)     
 Christine Dong '25 (Volunteer Fall 2023)    
@@ -156,7 +162,8 @@ Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)
 Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)  
 Venus Nguyen '25 (AEMES 2021-2023, SURF 2022)  
 Emma Ruckle '25 (SURF 2023)   
-Caroline Zouloumian '25 (SURF 2023, NSF Funded 2023-2024)   
+Caroline Zouloumian '25 (SURF 2023, NSF Funded 2023-2024)   <!--Uppsala University in Sweden for an Embedded Systems Msc-->
+<!-- Confirmed Graduate Students Above --> 
 Emily Kung '26 (STRIDE 2022-2023, SURF 2023)  
 Angela Chu (SURF 2021)  <!-- Did not graduate. -->   
 
