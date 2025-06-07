@@ -60,14 +60,6 @@ Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Da
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/sonora.jpg"
-     alt="Sonora Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Sonora Halili** '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023, Senior Honors Thesis 2024-25)  
-Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/sydney.jpeg"
      alt="Sydney Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
@@ -157,13 +149,13 @@ Megan Varnum '24 (STRIDE 2019-2021, SURF 2020, Volunteer Fall 2022, Special Stud
 Annie Karitonze '25J (Volunteer Fall 2022, Special Studies Spring 2023, SURF 2023, NSF Funded 2023-2024)  
 Cameron Darling '25 (Volunteer Fall 2023)     
 Christine Dong '25 (Volunteer Fall 2023)    
-Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)  
-<!--Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023)  -->
-Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)  
+Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)   
+Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023, Senior Honors Thesis 2024-25)   
+Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)   
 Venus Nguyen '25 (AEMES 2021-2023, SURF 2022)  
 Emma Ruckle '25 (SURF 2023)   
 Caroline Zouloumian '25 (SURF 2023, NSF Funded 2023-2024)   <!--Uppsala University in Sweden for an Embedded Systems Msc-->
-<!-- Confirmed Graduate Students Above --> 
+<!-- Confirmed Graduate Students Above -->  
 Emily Kung '26 (STRIDE 2022-2023, SURF 2023)  
 Angela Chu (SURF 2021)  <!-- Did not graduate. -->   
 
@@ -209,6 +201,13 @@ _Note: The last page of the application, asks for a title and brief description 
      />
 
 <!-- PAST LAB MEMBER PROFILES
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/sonora.jpg"
+     alt="Sonora Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Sonora Halili** '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023, Senior Honors Thesis 2024-25)  
+Sonora is a Computer Science major from Elbasan, Albania. Outside the lab, she enjoys traveling, watching trashy reality TV, and trying out new coffee flavors when possible. 
+</div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/Yesugen.png"
