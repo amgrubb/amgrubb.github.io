@@ -11,8 +11,6 @@ layout: archive
 **_Senior Honors Thesis by Isabel Montesant_**   
 **_Submitted to the Logic Program and was co-advised by Jay Garfield._**
 
-<!-- Lucy completed her seniors honors thesis with Prof. Grubb and received highest honors!-->
-
 
 >_Thesis Abstract:_
 Goal modeling is an area of software engineering that allows stakeholders, in domains from software to public planning, to break down their intentions visually and make trade-off decisions. Currently, Grubb et al. are building a web application, BloomingLeaf, that would allow stakeholders to build and to automatically analyze goal models within the Tropos framework. Practical concerns suggest that the best way to allow users to make models large enough to represent most real-world projects is to have them to create smaller submodels that the application automatically merges into a big-picture view. However, the existing merge algorithm is unable to merge information about goal fulfillment in most cases where it differs between submodels.
