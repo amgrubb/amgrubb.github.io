@@ -23,7 +23,7 @@ and my Bachelors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-Fall 2025: T.B.A. <!--Tuesdays 10:30-11:30am, Fridays 9:00-10:00am, or [by appointment](https://calendar.app.google/RvTzq8WJ8NAsMRkc6).-->
+Fall 2025: (*New - Starting September 20th*) Tuesdays 12:15-1:15pm, Fridays 10:30-11:30am <!--, or [by appointment](https://calendar.app.google/RvTzq8WJ8NAsMRkc6).-->
 
 <!--
 Spring 2022: In-person on Wednesday 6-7pm in Ford Hall 355. Online (Zoom) during times listed in my [appointment calendar](https://tinyurl.com/grubb-app).  
@@ -33,7 +33,7 @@ Appointments: [https://tinyurl.com/grubb-app](https://tinyurl.com/grubb-app)
 ### Research 
 My research focuses on how individuals learn, make decisions and understand change, and 
 I address these questions in the context of empirical software engineering. 
-In early-phase software engineering, goal modeling elicits and connects stakeholders' intentions and 
+In early-phase software engineering, elicitation and goal modeling connects stakeholders' intentions and 
 social needs with technical requirements in order to help stakeholders understand and evaluate potential tradeoffs. 
 Within this context, my dissertation (advised by [Marsha Chechik](http://www.cs.toronto.edu/~chechik)) enables 
 stakeholders to model and reason about tradeoff decisions in the context of evolving requirements and dependencies. 
@@ -45,13 +45,14 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 * CSC 111: [Introduction to Computer Science Through Programming](https://amgrubb.github.io/csc111) - S19, S20, S21, S22
 * CSC 223: [Introduction to Software Engineering](files/CSC223F19.pdf) - F19
 * CSC 231: Microprocessors and Assembly Language - F20
-* CSC 252: Algorithms - F23, F24 
+* CSC 252: Algorithms - F23, F24, F25 
 * CSC 325: [Seminar: Responsible Computing](files/CSC325F19.pdf) - [F19, F20](https://doi.org/10.35482/csc.002.2021), F21, F24
+* FYS 106: Learning and Thriving in a Labyrinth of Technology - F25
 
 ### Additional Information and Links
 
 Students can provide me with [anonymous course feedback](https://forms.gle/vAFiNqMaovom9Gjf8) or let me know how I can create a more [inclusive learning environment](https://forms.gle/ZT7s6q8mA1Lz3eZV7).
 
-[Computer Science](https://www.smith.edu/academics/computer-science) also provides an [anonymous form](https://forms.gle/ivNdENCtDsQqEyMC7) for feedback and ideas from students. 
+<!--[Computer Science](https://www.smith.edu/academics/computer-science) also provides an [anonymous form](https://forms.gle/ivNdENCtDsQqEyMC7) for feedback and ideas from students. -->
 
 Looking for a reference letter, please read [this page](/letters/).
