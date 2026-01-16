@@ -23,7 +23,7 @@ and my Bachelors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-Fall 2025: Tuesdays 12:15-1:15pm, Fridays 10:30-11:30am in Ford Hall 355.  <!--, or [by appointment](https://calendar.app.google/RvTzq8WJ8NAsMRkc6).-->
+Spring 2026: T.B.A. <!--Tuesdays 12:15-1:15pm, Fridays 10:30-11:30am in Ford Hall 355.  <!--, or [by appointment](https://calendar.app.google/RvTzq8WJ8NAsMRkc6).-->
 
 <!--
 Spring 2022: In-person on Wednesday 6-7pm in Ford Hall 355. Online (Zoom) during times listed in my [appointment calendar](https://tinyurl.com/grubb-app).  
@@ -47,6 +47,7 @@ See my [UToronto webpage](http://www.cs.toronto.edu/~amgrubb) for details about 
 * CSC 231: Microprocessors and Assembly Language - F20
 * CSC 252: Algorithms - F23, F24, F25 
 * CSC 325: [Seminar: Responsible Computing](files/CSC325F19.pdf) - [F19, F20](https://doi.org/10.35482/csc.002.2021), F21, F24
+* EGR 220: Engineering Circuit Theory - S26
 * FYS 106: Learning and Thriving in a Labyrinth of Technology - F25
 
 ### Additional Information and Links
