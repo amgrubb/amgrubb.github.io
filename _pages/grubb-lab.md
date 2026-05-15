@@ -38,8 +38,8 @@ the lab. See below to join us.
      alt="Alicia Paddling on Paradise Pond"
      style=" float: right; width: 250px; padding-left: 30px;" /> 
 **Dr. Alicia M. Grubb** (Principal Investigator 2019-Present)  
-Alicia is from Canada and loves maple syrup and gooses (and duckies). When they
-are not in the lab, they can be found riding bikes or paddling a kayak on Smith
+Alicia is from Canada and loves maple syrup and gooses (and duckies). 
+When not in the lab, Alicia can be found paddling a kayak on Smith
 College's Paradise Pond.
 </div>
 
