@@ -115,10 +115,11 @@ Lucy is a computer science and math major from Princeton, New Jersey. She enjoys
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/favicon.png"
-     alt="Logo"
+<img src="/images/claire.jpg"
+     alt="Claire Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Claire Newcom** '29 (SURF 2026). 
+**Claire Newcom** '29 (SURF 2026)   
+Claire plans to double major in Computer Science and Math. She loves to crochet, tap dance, drink tea, and play videogames.
 </div>
 
 <!--
