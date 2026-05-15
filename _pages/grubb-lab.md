@@ -47,7 +47,7 @@ College's Paradise Pond.
 <img src="/images/molly.jpeg"
      alt="Molly Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Molly Daniel** '26 (STRIDE 2022-2024, SURF 2023, NSF Funded 2024-2025)  
+**Molly Daniel** '26 (STRIDE 2022-2024, SURF 2023, NSF Funded 2024-2026)  
 Molly is a computer science major from Evanston, Illinois. She joined the lab in September 2022. Outside of academics, she enjoys playing hockey and video games.
 </div>
 
@@ -55,7 +55,7 @@ Molly is a computer science major from Evanston, Illinois. She joined the lab in
 <img src="/images/karenna.png"
      alt="Karenna Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25, SURF 2025)  
+**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25, SURF 2025, Postbaccalaureate Research Fellow 2025-2026)  
 Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
 </div>
 
@@ -63,7 +63,7 @@ Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Da
 <img src="/images/sydney.jpeg"
      alt="Sydney Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Sydney Weisberg** '26 (SURF 2024, NSF Funded 2024-2025)  
+**Sydney Weisberg** '26 (SURF 2024, NSF Funded 2024-2026)  
 Sydney is a computer science major from Los Angeles, California. She enjoys crochet, performing arts, and games outside of the lab.
 </div>
 
@@ -95,7 +95,7 @@ Vivian is a computer science major from Cleveland, Ohio. She enjoys listening to
 <img src="/images/moya.jpg"
      alt="Moya Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Moya Zouhon** '28 (AEMES 2024-2026)  
+**Moya Zouhon** '28 (AEMES 2024-2025)  
 Moya plans to double major in computer science and data science. Moya enjoys running, biking, or learning guitar. 
 </div>
 
@@ -103,7 +103,22 @@ Moya plans to double major in computer science and data science. Moya enjoys run
 <img src="/images/favicon.png"
      alt="Logo"
      style="float: right; height: 200px; padding-left: 30px;" />
-**Jessica Klurfeld '26 (Special Studies Spring 2025, SURF 2025)**  
+**Jessica Klurfeld** '26 (Special Studies Spring 2025, SURF 2025, NSF Funded 2025-2026)  
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/lucyk.png"
+     alt="Lucy Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Lucy Kreipke** '27 (NSF Funded 2026, SURF 2026)    
+Lucy is a computer science and math major from Princeton, New Jersey. She enjoys running, hiking, and doing crosswords outside of the lab.  
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/favicon.png"
+     alt="Logo"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Claire Newcom** '29 (SURF 2026). 
 </div>
 
 <!--
@@ -134,7 +149,7 @@ Catherine Kung '22 (SURF 2021, NSF Funded 2021-2022)
 <!-- Catherine Mary Brown Spencer-->Kate (Max) Spencer '22 (Volunteer 2020, SURF 2020, Special Studies Spring 2021)  
 Naomi Cebula '23J (SURF 2019, Special Studies Fall 2019)  
 Kathleen Hablutzel '23J (STRIDE 2020-2021, NSF Funded 2021-2022, NSF Funded Fall 2022)    
-[Yesugen Baatartogtokh](https://yesugenb.github.io/) '23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Affiliate 2023-2024)  
+[Yesugen Baatartogtokh](https://yesugenb.github.io/) '23 (Volunteer Spring 2021, SURF 2021, NSF Funded 2021-2022, SURF 2022, Senior Honors Thesis 2022-23, Postbaccalaureate Research Fellow 2023-2024)  
 <!-- Zihan Diao -->Lily Diao '23 (SURF 2019, Special Studies Fall 2019)  
 Irene Foster '23 (SURF 2021, NSF Funded 2021-2022, SURF 2022, NSF Funded 2022-2023)  
 Yanning Tan '23 (Special Studies Fall 2020, Volunteer Spring 2021, Special Studies Fall 2021, NSF Funded Spring 2022)  
