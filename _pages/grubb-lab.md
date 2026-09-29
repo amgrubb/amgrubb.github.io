@@ -44,66 +44,11 @@ College's Paradise Pond.
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/molly.jpeg"
-     alt="Molly Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Molly Daniel** '26 (STRIDE 2022-2024, SURF 2023, NSF Funded 2024-2026)  
-Molly is a computer science major from Evanston, Illinois. She joined the lab in September 2022. Outside of academics, she enjoys playing hockey and video games.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/karenna.png"
-     alt="Karenna Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25, SURF 2025, Postbaccalaureate Research Fellow 2025-2026)  
-Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/sydney.jpeg"
-     alt="Sydney Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Sydney Weisberg** '26 (SURF 2024, NSF Funded 2024-2026)  
-Sydney is a computer science major from Los Angeles, California. She enjoys crochet, performing arts, and games outside of the lab.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/favicon.png"
-     alt="Logo"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Kika Kovaleski** '25 (SURF 2024, NSF Funded 2024-2025, SURF 2025)  
-Kika is a computer science and history double major from Brooklyn, New York. Outside of academics, she enjoys going for walks, doing crosswords, and spending time with her dog.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/milka.jpeg"
-     alt="Milka Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Milka Carbonell Matos** '28 (STRIDE 2024-2026)  
-Milka is an intended computer science major from San Juan, Puerto Rico. Outside of the lab she enjoys singing, poetry, music and cooking.
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/vivian.jpg"
      alt="Vivian Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Vivian Myers** '28 (STRIDE 2024-2026, SURF 2025)  
 Vivian is a computer science major from Cleveland, Ohio. She enjoys listening to music, spending time with her cat, gardening, and playing badminton.  
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/moya.jpg"
-     alt="Moya Headshot"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Moya Zouhon** '28 (AEMES 2024-2025)  
-Moya plans to double major in computer science and data science. Moya enjoys running, biking, or learning guitar. 
-</div>
-
-<div style = "height: 250px; margin: 25px;" markdown = "1">
-<img src="/images/favicon.png"
-     alt="Logo"
-     style="float: right; height: 200px; padding-left: 30px;" />
-**Jessica Klurfeld** '26 (Special Studies Spring 2025, SURF 2025, NSF Funded 2025-2026)  
 </div>
 
 <div style = "height: 250px; margin: 25px;" markdown = "1">
@@ -168,13 +113,20 @@ Christine Dong '25 (Volunteer Fall 2023)
 Joey Elsbernd '25 (SURF 2022, STRIDE 2022-2023)   
 Sonora Halili '25 (Volunteer Spring 2022, SURF 2022, Work Study 2022-2023, Senior Honors Thesis 2024-25)   
 Anisha Jain '25 (STRIDE 2021-2023, SURF 2022)   
+Kika Kovaleski '25 (SURF 2024, NSF Funded 2024-2025, SURF 2025)    
+Karenna Kung '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25, SURF 2025, Postbaccalaureate Research Fellow 2025-2026)    
 Venus Nguyen '25 (AEMES 2021-2023, SURF 2022)  
 Emma Ruckle '25 (SURF 2023)   
 Caroline Zouloumian '25 (SURF 2023, NSF Funded 2023-2024)   <!--Uppsala University in Sweden for an Embedded Systems Msc-->
+Molly Daniel '26 (STRIDE 2022-2024, SURF 2023, NSF Funded 2024-2026)  
+Jessica Klurfeld '26 (Special Studies Spring 2025, SURF 2025, NSF Funded 2025-2026)   
+Emily Kung '26 (STRIDE 2022-2023, SURF 2023)   
+Sydney Weisberg '26 (SURF 2024, NSF Funded 2024-2026)   
 <!-- Confirmed Graduate Students Above -->  
-Emily Kung '26 (STRIDE 2022-2023, SURF 2023)  
-Angela Chu (SURF 2021)  <!-- Did not graduate. -->   
-
+**Milka Carbonell Matos** '28 (STRIDE 2024-2026)
+**Moya Zouhon** '28 (AEMES 2024-2025)  
+Angela Chu (SURF 2021)  <!-- Did not graduate. ASU'28--> 
+  
 ## How to Join
 
 We are seeking new lab members interested in both software development and
@@ -486,14 +438,69 @@ Lauren is a statistical and data sciences major from Norwich, CT. She joined the
 She is especially interested in domain bias, female representation in STEM, and privacy ethics. 
 Outside of lab she enjoys sailing, kayaking, and spending time with her dog.
 </div>
--->
 
-<!--
 <div style = "height: 250px; margin: 25px;" markdown = "1">
 <img src="/images/maggie.jpeg"
      alt="Maggie Headshot"
      style="float: right; height: 200px; padding-left: 30px;" />
 **Maggie Hollis** '25 (STRIDE 2021-2023)  
 Maggie is from Narberth, PA and intends to be a Computer Science major. Outside of academics, she enjoys reading, exercising, and making/eating baked goods.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/molly.jpeg"
+     alt="Molly Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Molly Daniel** '26 (STRIDE 2022-2024, SURF 2023, NSF Funded 2024-2026)  
+Molly is a computer science major from Evanston, Illinois. She joined the lab in September 2022. Outside of academics, she enjoys playing hockey and video games.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/karenna.png"
+     alt="Karenna Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Karenna Kung** '25 (SURF 2023, NSF Funded 2023-2024, Senior Honors Thesis 2024-25, SURF 2025, Postbaccalaureate Research Fellow 2025-2026)  
+Karenna is from Salem, Connecticut and is a Computer Science and Statistics & Data Science major. Outside of academics, they enjoy playing soccer, hiking, and Shrek the Musical.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/sydney.jpeg"
+     alt="Sydney Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Sydney Weisberg** '26 (SURF 2024, NSF Funded 2024-2026)  
+Sydney is a computer science major from Los Angeles, California. She enjoys crochet, performing arts, and games outside of the lab.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/favicon.png"
+     alt="Logo"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Kika Kovaleski** '25 (SURF 2024, NSF Funded 2024-2025, SURF 2025)  
+Kika is a computer science and history double major from Brooklyn, New York. Outside of academics, she enjoys going for walks, doing crosswords, and spending time with her dog.
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/milka.jpeg"
+     alt="Milka Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Milka Carbonell Matos** '28 (STRIDE 2024-2026)  
+Milka is an intended computer science major from San Juan, Puerto Rico. Outside of the lab she enjoys singing, poetry, music and cooking.
+</div>
+
+
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/moya.jpg"
+     alt="Moya Headshot"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Moya Zouhon** '28 (AEMES 2024-2025)  
+Moya plans to double major in computer science and data science. Moya enjoys running, biking, or learning guitar. 
+</div>
+
+<div style = "height: 250px; margin: 25px;" markdown = "1">
+<img src="/images/favicon.png"
+     alt="Logo"
+     style="float: right; height: 200px; padding-left: 30px;" />
+**Jessica Klurfeld** '26 (Special Studies Spring 2025, SURF 2025, NSF Funded 2025-2026)  
 </div>
 -->
