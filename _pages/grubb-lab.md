@@ -121,10 +121,9 @@ Caroline Zouloumian '25 (SURF 2023, NSF Funded 2023-2024)   <!--Uppsala Universi
 Molly Daniel '26 (STRIDE 2022-2024, SURF 2023, NSF Funded 2024-2026)  
 Jessica Klurfeld '26 (Special Studies Spring 2025, SURF 2025, NSF Funded 2025-2026)   
 Emily Kung '26 (STRIDE 2022-2023, SURF 2023)   
-Sydney Weisberg '26 (SURF 2024, NSF Funded 2024-2026)   
-<!-- Confirmed Graduate Students Above -->  
-**Milka Carbonell Matos** '28 (STRIDE 2024-2026)
-**Moya Zouhon** '28 (AEMES 2024-2025)  
+Sydney Weisberg '26 (SURF 2024, NSF Funded 2024-2026)   <!-- Confirmed Graduate Students Above -->  
+Milka Carbonell Matos '28 (STRIDE 2024-2026)   
+Moya Zouhon '28 (AEMES 2024-2025)    
 Angela Chu (SURF 2021)  <!-- Did not graduate. ASU'28--> 
   
 ## How to Join
