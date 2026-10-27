@@ -23,7 +23,9 @@ and my Bachelors at the University of Waterloo in Software Engineering.
 
 ### Student Hours
 
-Fall 2026 (Tentative): Wednesdays 2:45pm-3:45pm, Fridays 10:30am-11:30am, or [by appointment](https://calendar.app.google/MztNjHBx2YjKSRc66) in Ford Hall 355.
+Fall 2026 (Tentative): Wednesdays 2:45pm-3:45pm, Fridays 10:30am-11:30am, or 
+[by appointment](https://calendar.app.google/XtYQjXHqYNmQ7F9i6)
+in Ford Hall 355.
 
 <!--
 Spring 2022: In-person on Wednesday 6-7pm in Ford Hall 355. Online (Zoom) during times listed in my [appointment calendar](https://tinyurl.com/grubb-app).  
